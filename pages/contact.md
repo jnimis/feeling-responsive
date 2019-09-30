@@ -1,12 +1,13 @@
 ---
 layout: page
 title: "Contact"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+meta_title: "WI Golden Gloves | Contact"
 permalink: "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
+<h4>President: Andrea Nelson</h4>
+<p>Phone: (608)574-7659<br/>
+Email: boblynchboxing@gmail.com</p>
 
-
- [1]: http://www.wufoo.com/
+<h4>Chief Official: Domingo Cruz</h4>
+<p>Phone: (414)510-8194<br/>
+Email: domingocruz23@gmail.com</p>
