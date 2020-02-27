@@ -3,9 +3,9 @@ layout: page
 title: "Forms"
 permalink: "/forms/"
 ---
-[Printable Fact Sheet for 2019 Tournament](/images/WIGG-2019factSheet.pdf)
+[Printable Fact Sheet for 2020 Tournament](/images/2020-WIGG-FactSheet.pdf)
 
-2019 Tournament Registration Form ([online form](/register/) or download [printable form](/images/WIGG-2019registration.pdf))
+2020 Tournament Registration Form ([online form](/register/) or download [printable form](/images/2020-WIGG-Register.pdf))
 
 [Register with USA Boxing](https://webpoint.usaboxing.org/) (external link)
 

@@ -1,16 +1,14 @@
 ---
 layout: page
 title: "Registration"
-subheadline: "2019 Wisconsin State Tournament"
+subheadline: "2020 Wisconsin State Tournament"
 permalink: "/register/"
-registration-form: false
+registration-form: true
 ---
 
-Registration for the 2019 tournament is closed.  Use the "Contact" tab above if you have further questions.
+(click [here](/images/2020-WIGG-Register.pdf) for a printable form to mail)
 
-<div style="display:none;">
-
-(click [here](/images/WIGG-2019registration.pdf) for a printable form to mail)
+<div>
 
 <strong>NOTE:</strong> Boxers must be citizens or legal residents to advance to the National tournament.
 Non-citizens may box in the novice divisions and in out-of-tournament match-bouts.
@@ -24,6 +22,14 @@ Non-citizens may box in the novice divisions and in out-of-tournament match-bout
 <label for="email">Email: </label><input type="text" id="email" style="max-width:300px;"/>
 <label for="phone">Phone: </label><input type="text" id="phone" style="max-width:200px;"/>
 <label for="gym-name">Boxing Club:</label> <input type="text" id="gym-name"/>
+<label for="shirt-size">T-shirt Size:</label>
+<select id="shirt-size">
+  <option value="">Choose...</option>
+  <option value="S">Small</option>
+  <option value="M">Medium</option>
+  <option value="L">Large</option>
+  <option value="XL">Extra Large</option>
+</select>
 
   <hr/>
 <div class="text-center wh-hidden">
@@ -127,21 +133,21 @@ Non-citizens may box in the novice divisions and in out-of-tournament match-bout
   Amateur experience:<br/>
   Number of bouts? <input type="number" id="numbouts" style="width:80px;display:inline-block;"/><br/>
   note: a boxer with 6+ bouts may choose to box "OPEN" with approval and discretion of their coach and GG officials
-    <button id="novice-button" class="blbf-btn btn-default single-select-button">Novice (0-4 bouts)</button>
-    <button id="super-novice-button" class="blbf-btn btn-default single-select-button">Super-Novice (5-10 bouts)</button>
+    <button id="novice-button" class="blbf-btn btn-default single-select-button">True Novice (0-3 bouts)</button>
+    <button id="super-novice-button" class="blbf-btn btn-default single-select-button">Novice (4-10 bouts)</button>
     <button id="open-button" class="blbf-btn btn-default single-select-button">Open (11 + bouts)</button>
   </div>
   <br/>
 
-    Age as of March 15, 2019? <input type="number" id="age" style="width:60px;display:inline-block;"/><hr/>
+    Age as of March 15, 2020? <input type="number" id="age" style="width:60px;display:inline-block;"/><hr/>
 
 
-    Do you plan to attend Wisconsin Golden Gloves in Madison in March/April 2019?
+    <!-- Do you plan to attend Wisconsin Golden Gloves in Madison in March/April 2020?
     <div class="btn-group boxer-attend">
       <button id="boxer-attend-definitely" class="blbf-btn btn-default single-select-button">Definitely</button>
       <button id="boxer-attend-maybe" class="blbf-btn btn-default single-select-button">Maybe</button>
   <button id="boxer-attend-defnot" class="blbf-btn btn-default single-select-button">No</button>
-    </div>
+    </div> -->
 
     How likely are you to stay at the host hotel ($119/night)?
     <div class="btn-group boxer-host-hotel">
@@ -163,6 +169,8 @@ Non-citizens may box in the novice divisions and in out-of-tournament match-bout
       <button id="boxer-travel-daily-maybe" class="blbf-btn btn-default single-select-button">Maybe</button>
       <button id="boxer-travel-daily-defnot" class="blbf-btn btn-default single-select-button">No</button>
     </div>
+
+    <h3>A $5 registration fee will be collected at check-in on the tournament start day</h3>
 
     <button id="submit-boxer" class="blbf-btn btn-primary">Submit</button>
 

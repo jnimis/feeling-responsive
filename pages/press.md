@@ -3,6 +3,7 @@ layout: page
 title: "Press"
 permalink: "/press/"
 ---
+[https://madison.com/ct/sports/amateur/ring-leader-andrea-nelson-has-breathed-new-life-into-madison/article_1a901c9a-111b-5fac-88e9-999e3c589e44.html](https://madison.com/ct/sports/amateur/ring-leader-andrea-nelson-has-breathed-new-life-into-madison/article_1a901c9a-111b-5fac-88e9-999e3c589e44.html)
 
 [https://madison365.com/wisconsin-golden-gloves-178-lb-champ-william-langston-turns-pro/](https://madison365.com/wisconsin-golden-gloves-178-lb-champ-william-langston-turns-pro/)
 

@@ -58,13 +58,17 @@ s0.parentNode.insertBefore(s1,s0);
 <script type="text/javascript" src="{{ url }}/assets/js/instafeed.min.js"></script>
 
 <script type="text/javascript">
-    var feed = new Instafeed({
-        get: 'user',
-        userId: '10322428302',
-        accessToken: '10322428302.772bd5b.ecf5eaf075774ef980dc693c97c6ab52',
-        template: '<a target="_blank" href="\{\{link\}\}"><img src="\{\{image\}\}" width="210" height="210" alt="\{\{caption\}\}" /></a>'
-    });
-    feed.run();
+    try {
+      var feed = new Instafeed({
+          get: 'user',
+          userId: '10322428302',
+          accessToken: '10322428302.772bd5b.ecf5eaf075774ef980dc693c97c6ab52',
+          template: '<a target="_blank" href="\{\{link\}\}"><img src="\{\{image\}\}" width="210" height="210" alt="\{\{caption\}\}" /></a>'
+      });
+      feed.run();
+    } catch (e) {
+      $('#instafeed').html('You may have an ad blocker that is preventing the Wisconsin Golden Gloves Instagram feed from running')
+    }
 </script>
 
 {% endif %}

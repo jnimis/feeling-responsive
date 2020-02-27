@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "2019 ‘Golden Gloves of America’"
+title: "2020 ‘Golden Gloves of America’"
 permalink: "/national/"
 ---
 
-<h3>2019 Wisconsin Team:</h3>
+<!-- <h3>2019 Wisconsin Team:</h3>
 
 <h4>Boxers:</h4>
 
@@ -30,20 +30,18 @@ permalink: "/national/"
 <br/>
 <strong>WI Golden Gloves franchise delegate</strong>: Andrea Nelson<br/>
 <strong>Alternate delegate</strong>: Eddie Kenrick<br/>
-<br/>
+<br/> -->
 
 
 <h3>Tournament Information:</h3>
 
-<h4>Where: Chattanooga, TN</h4>
-<h4>When: May 4-12</h4>
+<h4>Where: Tulsa, OK</h4>
+<h4>When: May 3-9</h4>
 
 <h4>Event Schedule:</h4>
-- May 4:    Travel
-- May 5:    Check in
-- May 6-10: Competition begins/elimination bouts
-- May 11:  Championship Finals
-- May 12:  Return
+- May 2:    Team travels to Tulsa together
+- May 3-9:  Tournament
+- May 10:   Return
 
 
 <!--

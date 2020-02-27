@@ -2,23 +2,26 @@
   url: "/"
   side: left
 
-- title: 2019 Tournament
-  url: "/2019/"
+- title: State Tournament
+  url: "/2020/"
   side: left
   dropdown:
+  - title: "REGISTER NOW"
+    url: "/register/"
   - title: "Brackets and Bouts"
     url: "/bouts/"
-  - title: "State Tournament"
-    url: "/2019/"
+  - title: "2020 State Tournament"
+    url: "/2020/"
   - title: "National Tournament"
     url: "/national/"
   - title: Forms
     url: "/forms/"
-    side: left
+  - title: Past Tournaments
+    url: "/2019/"
 
-# - title: Tickets
-#   url: "/tickets/"
-#   side: left
+- title: Tickets
+  url: "/tickets/"
+  side: left
 
 - title: Press
   url: "/press/"

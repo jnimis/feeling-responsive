@@ -1,12 +1,14 @@
 ---
 layout: page
 title: "Brackets and Bouts"
-subheadline: "2019 Wisconsin State Tournament"
+subheadline: "2020 Wisconsin State Tournament"
 permalink: "/bouts/"
 registration-form: false
 ---
 
-<img src="/images/165Bracket.png" style="width:80%;">
+Bout and bracket information will be posted after weigh-ins on the first day of the tournament.
+
+<!-- <img src="/images/165Bracket.png" style="width:80%;">
 <img src="/images/178Bracket.png" style="width:80%;">
 <img src="/images/201Bracket.png" style="width:80%;">
 
@@ -44,4 +46,4 @@ registration-form: false
   <tr><td>201+ lbs</td><td>Derris Wolfe vs Gunnar Walcavich</td></tr>
   <tr><td>201+ lbs</td><td>Luis Alvorado vs Demetrius Reed</td></tr>
 
-</table>
+</table> -->

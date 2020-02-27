@@ -1,3 +1,5 @@
+// this file is included in _footer_scripts.html
+
 $(document).ready(function() {
 
   function formatForSelected($button) {
@@ -25,14 +27,22 @@ $(document).ready(function() {
 
 		var appClientId = '';
 
+    // **************************************
+    // *  CONFIGURATION:
+    // *  these variables determine where the survey goes, and how it is authenticated
+    // *  to link it to a new AWS account, these must be changed
+    //
+    var identityPoolId = 'us-east-1:05a3b015-7711-4a5f-999f-15f797566de4';
+    var lambdaName = 'BLBFSurvey';
+
 		// Initialize the Amazon Cognito credentials provider
 		AWS.config.region = 'us-east-1'; // Region
 		AWS.config.credentials = new AWS.CognitoIdentityCredentials({
-		    IdentityPoolId: 'us-east-1:05a3b015-7711-4a5f-999f-15f797566de4'
+		    IdentityPoolId: identityPoolId
 		});
 
 		var lambda = new AWS.Lambda({region: 'us-east-1', apiVersion: '2015-03-31'});
-		var functionName = 'BLBFSurvey';
+		var functionName = lambdaName;
 		var payload = JSON.stringify(payloadJson);
 
 		var params = {
@@ -42,6 +52,7 @@ $(document).ready(function() {
 		  Payload : payload
 		};
 
+    // show loading
     $('#blbf-loading-modal').modal('show');
 
 		lambda.invoke(params, function(error, data) {
@@ -160,7 +171,7 @@ $(document).ready(function() {
     var hostHotel = $('.boxer-host-hotel .btn-primary').text();
     var otherHotel = $('.boxer-other-hotel .btn-primary').text();
     var dailyTravel = $('.boxer-travel-each-day .btn-primary').text();
-    var willAttend = $('.boxer-attend .btn-primary').text();
+    // var willAttend = $('.boxer-attend .btn-primary').text();
 
     var age = $('#age').val();
     var numBouts = $('#numbouts').val();
@@ -172,6 +183,7 @@ $(document).ready(function() {
     var usaBoxing = $('#usaboxingid').val();
     var coachName = $('#coachname').val();
     var coachContact = $('#coachcontact').val();
+    var shirtSize = $('#shirt-size').val();
 
     var formattedDate = moment().format('MMMM Do YYYY, h:mm:ss a');
 
@@ -183,7 +195,7 @@ $(document).ready(function() {
     if (weightClass == undefined || weightClass == '') { errors.push('weight class'); }
     if (age == undefined || age == '') { errors.push('age'); }
     if (experience == undefined || experience == '') { errors.push('experience level'); }
-    if (willAttend == undefined || willAttend == '') { errors.push('will attend'); }
+    // if (willAttend == undefined || willAttend == '') { errors.push('will attend'); }
     if (hostHotel == undefined || hostHotel == '' || otherHotel == undefined || otherHotel == '' || dailyTravel == undefined || dailyTravel == '') { errors.push('hotel plans'); }
     if (!hasValidEmail($('#email').val()) && !hasValidPhoneNumber($('#phone').val())) { errString = 'You must enter a valid email or phone number! ';}
 
@@ -207,14 +219,14 @@ $(document).ready(function() {
       'hostHotel' : hostHotel,
       'otherHotel' : otherHotel,
       'dailyTravel' : dailyTravel,
-      'willAttend' : willAttend,
       'age' : age,
       'numBouts' : numBouts,
       'birthdate' : birthDate,
       'usaboxingid' : usaBoxing,
       'coachName' : coachName,
       'coachContact' : coachContact,
-      'submittedDate' : formattedDate
+      'submittedDate' : formattedDate,
+      'shirtSize' : shirtSize
     };
 
     addContactInfoFields(data);
