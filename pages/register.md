@@ -6,9 +6,11 @@ permalink: "/register/"
 registration-form: true
 ---
 
-(click [here](/images/2020-WIGG-Register.pdf) for a printable form to mail)
+Registration for the 2020 tournament is now closed.  If you have further questions, <a href="/contact/">contact us here.</a> 
 
-<div>
+<!-- (click [here](/images/2020-WIGG-Register.pdf) for a printable form to mail) -->
+
+<div style="display:none;">
 
 <strong>NOTE:</strong> Boxers must be citizens or legal residents to advance to the National tournament.
 Non-citizens may box in the novice divisions and in out-of-tournament match-bouts.

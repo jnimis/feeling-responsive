@@ -7,10 +7,13 @@
 layout: frontpage
 
 # NOTE: JN 5/15/19 - need to correct margins/size of container for this - it is too tall - look in _layouts/frontpage.html
-callforaction:
-  url: /register
-  text: Register for the 2020 Tournament ›
-  style: alert
+#callforaction:
+#  url: /register
+#  text: Register for the 2020 Tournament ›
+#  style: alert
+
+specialannouncement:
+  text: "USA Boxing has suspended all events (locally and nationally) through March. This means our tournament this weekend WILL BE POSTPONED, rescheduled as soon as possible. Nationals are also postponed. We'll keep you posted as we know more!"
 
 widget1:
   title: "2020 Wisconsin State Golden Gloves"

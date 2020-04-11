@@ -6,8 +6,8 @@
   url: "/2020/"
   side: left
   dropdown:
-  - title: "REGISTER NOW"
-    url: "/register/"
+  #- title: "REGISTER NOW"
+  #  url: "/register/"
   - title: "Brackets and Bouts"
     url: "/bouts/"
   - title: "2020 State Tournament"

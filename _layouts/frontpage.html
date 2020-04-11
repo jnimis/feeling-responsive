@@ -20,6 +20,7 @@ format: frontpage
             {% capture url %}{{ site.url }}{{ site.baseurl }}{% endcapture %}
             {% endif %}
             {% if page.callforaction %}
+
                 <div class="row t60 b60">
                     <div class="small-12 text-center columns">
                         <a class="button large radius {{ page.callforaction.style }}" href="{{ url }}{{ page.callforaction.url }}"{% if page.callforaction.url contains 'http' %} target="_blank" {% endif %}>{{ page.callforaction.text }}</a>
@@ -37,6 +38,14 @@ format: frontpage
 *
 {% endcomment %}
 <div class="medium-8 columns medium-offset-2">
+
+  {% if page.specialannouncement %}
+  <div class="row" style="margin-bottom:15px;">
+    <div class="small-12 columns text-center">
+      <h3>{{ page.specialannouncement.text }}</h3>
+    </div>
+  </div>
+  {% endif %}
 
   <div class="text-center">
     <!-- <img src="/images/2020poster.jpg" style="width:70%;margin-bottom:12px;" /> -->
