@@ -1,5 +1,15 @@
 // this file is included in _footer_scripts.html
 
+/*****************************
+*
+*  This file corresponds to the `register.md` page for the BLBF Golden Gloves site
+*  It sends form data to an AWS Lambda, which stores the registration info in a database
+*  The registration year and database implementation details are controlled on the Lambda side
+*  so this file shouldn't need to change at all year to year, except to be kept in sync
+*  with the form elements on the `register.md` page.
+*
+*****************************/
+
 $(document).ready(function() {
 
   function formatForSelected($button) {

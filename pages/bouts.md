@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Brackets and Bouts"
-subheadline: "2020 Wisconsin State Tournament"
+subheadline: "2021 Wisconsin State Tournament"
 permalink: "/bouts/"
 registration-form: false
 ---

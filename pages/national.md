@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "2020 ‘Golden Gloves of America’"
+title: "2021 ‘Golden Gloves of America’"
 permalink: "/national/"
 ---
 
@@ -36,12 +36,12 @@ permalink: "/national/"
 <h3>Tournament Information:</h3>
 
 <h4>Where: Tulsa, OK</h4>
-<h4>When: May 3-9</h4>
+<h4>When: Aug 8-14</h4>
 
 <h4>Event Schedule:</h4>
-- May 2:    Team travels to Tulsa together
-- May 3-9:  Tournament
-- May 10:   Return
+- Aug 3:    Team travels to Tulsa together
+- Aug 8-14:  Tournament (Finals, Sat 14th)
+- Aug 15:   Return home
 
 
 <!--

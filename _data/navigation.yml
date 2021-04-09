@@ -3,21 +3,22 @@
   side: left
 
 - title: State Tournament
-  url: "/2020/"
+  url: "/2021/"
   side: left
   dropdown:
   #- title: "REGISTER NOW"
   #  url: "/register/"
   - title: "Brackets and Bouts"
     url: "/bouts/"
-  - title: "2020 State Tournament"
-    url: "/2020/"
+  - title: "2021 State Tournament"
+    url: "/2021/"
   - title: "National Tournament"
     url: "/national/"
   - title: Forms
     url: "/forms/"
   - title: Past Tournaments
     url: "/2019/"
+    url: "/2020/"
 
 - title: Tickets
   url: "/tickets/"
@@ -31,9 +32,9 @@
   url: "/photos/"
   side: left
 
-- title: Video
-  url: "/livefeed/"
-  side: left
+#- title: Video
+#  url: "/livefeed/"
+#  side: left
 
 # - title: Getting Started
 #   url: "/getting-started/"

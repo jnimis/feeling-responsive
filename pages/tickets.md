@@ -4,9 +4,14 @@ title: "Tickets"
 permalink: "/tickets/"
 ---
 
+Tickets will be available on this page closer to the event date.
+
+<div style="display:none;">
 You can purchase tickets below on this page or at EventBrite: [Friday tickets](https://2020-wi-golden-gloves-friday.eventbrite.com) and [Saturday tickets](https://2020-wi-golden-gloves-saturday.eventbrite.com) are sold separately.
 
 <div id="eventbrite-widget-container-91568400551"></div>
+
+</div>
 
 <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
 
@@ -29,7 +34,7 @@ You can purchase tickets below on this page or at EventBrite: [Friday tickets](h
 
 
 
-<div id="eventbrite-widget-container-91812275989"></div>
+<!-- <div id="eventbrite-widget-container-91812275989"></div> -->
 
 <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
 

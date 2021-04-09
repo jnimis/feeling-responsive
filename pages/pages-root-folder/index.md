@@ -13,7 +13,7 @@ layout: frontpage
 #  style: alert
 
 specialannouncement:
-  text: "USA Boxing has suspended all events (locally and nationally) through March. This means our tournament this weekend WILL BE POSTPONED, rescheduled as soon as possible. Nationals are also postponed. We'll keep you posted as we know more!"
+  text: "So far so good!! The <strong>2021 Wisconsin State Golden Gloves tournament</strong> is still on course for <strong>July 23-24th</strong>. We plan to post the <strong>online boxer registration and 2021 tournament information here on May 1st</strong>.<br/><br/>If you're interested in more information about Golden Gloves nationally, here's a link to the <strong>National Golden Gloves website</strong>: <a href='http://www.goldenglovesusa.org/'>http://www.goldenglovesusa.org/</a><br/><br/>Stay safe, stay healthy and keep training... hope to see you in July!"
 
 widget1:
   title: "2020 Wisconsin State Golden Gloves"

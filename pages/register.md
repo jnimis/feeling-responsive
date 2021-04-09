@@ -1,19 +1,18 @@
 ---
 layout: page
 title: "Registration"
-subheadline: "2020 Wisconsin State Tournament"
-permalink: "/register/"
+subheadline: "2021 Wisconsin State Tournament"
+permalink: "/register2021/"
 registration-form: true
 ---
 
-Registration for the 2020 tournament is now closed.  If you have further questions, <a href="/contact/">contact us here.</a> 
+<!-- Registration for the 2021 tournament will open soon.  If you have further questions, <a href="/contact/">contact us here.</a> -->
 
 <!-- (click [here](/images/2020-WIGG-Register.pdf) for a printable form to mail) -->
 
-<div style="display:none;">
+<!-- <div style="display:none;"> -->
 
-<strong>NOTE:</strong> Boxers must be citizens or legal residents to advance to the National tournament.
-Non-citizens may box in the novice divisions and in out-of-tournament match-bouts.
+<strong>NOTE:</strong> Due to recent rule changes, qualified boxers with NON CITIZEN STATUS ARE NOW ELIGIBLE TO ADVANCE with the team to the National Golden Gloves tournament.
 
 <div class="row">
 <div class="col-xs-12">
@@ -116,7 +115,7 @@ Non-citizens may box in the novice divisions and in out-of-tournament match-bout
   <div id="male-weight-classes" class="wh-hidden">
     Weight class?
     <div class="btn-group">
-    <button class="blbf-btn single-select-button">108</button><button class="blbf-btn single-select-button">114</button><button class="blbf-btn single-select-button">123</button><button class="blbf-btn single-select-button">132</button><button class="blbf-btn single-select-button">141</button><button class="blbf-btn single-select-button">152</button><button class="blbf-btn single-select-button">165</button><button class="blbf-btn single-select-button">178</button><button class="blbf-btn single-select-button">201</button><button class="blbf-btn single-select-button">201+</button>
+    <button class="blbf-btn single-select-button">108</button><button class="blbf-btn single-select-button">114</button><button class="blbf-btn single-select-button">125</button><button class="blbf-btn single-select-button">138</button><button class="blbf-btn single-select-button">152</button><button class="blbf-btn single-select-button">165</button><button class="blbf-btn single-select-button">178</button><button class="blbf-btn single-select-button">201</button><button class="blbf-btn single-select-button">201+</button>
     </div>
   </div>
 
@@ -134,14 +133,14 @@ Non-citizens may box in the novice divisions and in out-of-tournament match-bout
   <div class="btn-group boxer-experience">
   Amateur experience:<br/>
   Number of bouts? <input type="number" id="numbouts" style="width:80px;display:inline-block;"/><br/>
-  note: a boxer with 6+ bouts may choose to box "OPEN" with approval and discretion of their coach and GG officials
+  note: a boxer with 6+ bouts may choose to register as "OPEN" with approval and discretion of their coach and GG officials
     <button id="novice-button" class="blbf-btn btn-default single-select-button">True Novice (0-3 bouts)</button>
     <button id="super-novice-button" class="blbf-btn btn-default single-select-button">Novice (4-10 bouts)</button>
     <button id="open-button" class="blbf-btn btn-default single-select-button">Open (11 + bouts)</button>
   </div>
   <br/>
 
-    Age as of March 15, 2020? <input type="number" id="age" style="width:60px;display:inline-block;"/><hr/>
+    Age as of July 23, 2021? <input type="number" id="age" style="width:60px;display:inline-block;"/><hr/>
 
 
     <!-- Do you plan to attend Wisconsin Golden Gloves in Madison in March/April 2020?
@@ -172,7 +171,7 @@ Non-citizens may box in the novice divisions and in out-of-tournament match-bout
       <button id="boxer-travel-daily-defnot" class="blbf-btn btn-default single-select-button">No</button>
     </div>
 
-    <h3>A $5 registration fee will be collected at check-in on the tournament start day</h3>
+    <h3>A $10 registration fee will be collected at check-in on the tournament start day</h3>
 
     <button id="submit-boxer" class="blbf-btn btn-primary">Submit</button>
 
@@ -220,4 +219,4 @@ Non-citizens may box in the novice divisions and in out-of-tournament match-bout
 	</div>
 </div> -->
 
-</div>
+<!-- </div> -->
