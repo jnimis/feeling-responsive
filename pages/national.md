@@ -39,7 +39,7 @@ permalink: "/national/"
 <h4>When: Aug 8-14</h4>
 
 <h4>Event Schedule:</h4>
-- Aug 3:    Team travels to Tulsa together
+- Aug 7:    Team travels to Tulsa together
 - Aug 8-14:  Tournament (Finals, Sat 14th)
 - Aug 15:   Return home
 

@@ -193,6 +193,7 @@ $(document).ready(function() {
     var usaBoxing = $('#usaboxingid').val();
     var coachName = $('#coachname').val();
     var coachContact = $('#coachcontact').val();
+    var stateInfo = $('.in-out-state .btn-primary').text();
     var shirtSize = $('#shirt-size').val();
 
     var formattedDate = moment().format('MMMM Do YYYY, h:mm:ss a');
@@ -201,6 +202,7 @@ $(document).ready(function() {
     var errString = '';
     var errors = [];
     if (birthMonth == 'Month' || birthDay == 'Day' || birthYear == 'Year') {errors.push('birthdate'); }
+    if (stateInfo == undefined || stateInfo == '') { errors.push('Wisconsin or out-of-state'); }
     if (gender == undefined || gender == '') { errors.push('gender'); }
     if (weightClass == undefined || weightClass == '') { errors.push('weight class'); }
     if (age == undefined || age == '') { errors.push('age'); }
@@ -236,7 +238,8 @@ $(document).ready(function() {
       'coachName' : coachName,
       'coachContact' : coachContact,
       'submittedDate' : formattedDate,
-      'shirtSize' : shirtSize
+      'shirtSize' : shirtSize,
+      'stateInfo' : stateInfo
     };
 
     addContactInfoFields(data);

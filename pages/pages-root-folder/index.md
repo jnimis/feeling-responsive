@@ -7,19 +7,19 @@
 layout: frontpage
 
 # NOTE: JN 5/15/19 - need to correct margins/size of container for this - it is too tall - look in _layouts/frontpage.html
-#callforaction:
-#  url: /register
-#  text: Register for the 2020 Tournament ›
-#  style: alert
+callforaction:
+  url: /register
+  text: Register for the 2021 Tournament ›
+  style: alert
 
-specialannouncement:
-  text: "So far so good!! The <strong>2021 Wisconsin State Golden Gloves tournament</strong> is still on course for <strong>July 23-24th</strong>. We plan to post the <strong>online boxer registration and 2021 tournament information here on May 1st</strong>.<br/><br/>If you're interested in more information about Golden Gloves nationally, here's a link to the <strong>National Golden Gloves website</strong>: <a href='http://www.goldenglovesusa.org/'>http://www.goldenglovesusa.org/</a><br/><br/>Stay safe, stay healthy and keep training... hope to see you in July!"
+#specialannouncement:
+#  text: "So far so good!! The <strong>2021 Wisconsin State Golden Gloves tournament</strong> is #still on course for <strong>July 23-24th</strong>. We plan to post the <strong>online boxer #registration and 2021 tournament information here on May 1st</strong>.<br/><br/>If you're #interested in more information about Golden Gloves nationally, here's a link to the #<strong>National Golden Gloves website</strong>: <a href='http://www.goldenglovesusa.org/#'>http://www.goldenglovesusa.org/</a><br/><br/>Stay safe, stay healthy and keep training... #hope to see you in July!"
 
 widget1:
-  title: "2020 Wisconsin State Golden Gloves"
-  url: '/2020/'
-  image: 2020-ggFlyer.JPG
-  text: 'The Wisconsin Golden Gloves tournament will be back in Madison this year after a great tournament in 2019! Read more information here, or check out photos and videos in the links above.'
+  title: "2021 Wisconsin State Golden Gloves"
+  url: '/2021/'
+  image: 2021StateTournamentPoster.jpg
+  text: 'The Wisconsin Golden Gloves tournament will be back in Madison this year after a great tournament in 2019, and a long and unexpected year off due to COVID-19 in 2020. Read more information here, or check out photos and videos from 2019 in the links above'
 widget2:
   title: "National Golden Gloves Tournament"
   url: '/national'

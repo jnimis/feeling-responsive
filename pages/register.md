@@ -2,11 +2,13 @@
 layout: page
 title: "Registration"
 subheadline: "2021 Wisconsin State Tournament"
-permalink: "/register2021/"
+permalink: "/register/"
 registration-form: true
 ---
 
-<!-- Registration for the 2021 tournament will open soon.  If you have further questions, <a href="/contact/">contact us here.</a> -->
+<!-- Registration for the 2021 tournament will open May 1.   -->
+
+<!-- If you have further questions, you can <a href="/contact/">contact us here.</a> -->
 
 <!-- (click [here](/images/2020-WIGG-Register.pdf) for a printable form to mail) -->
 
@@ -105,6 +107,16 @@ registration-form: true
   <label for="coachname">Coach's Name: </label><input type="text" id="coachname"/><br/>
   <label for="coachcontact">Coach's Email/Phone: </label><input type="text" id="coachcontact"/><br/>
 
+  Because Chicago Golden Gloves had to cancel their 2021 Golden Gloves due to COVID restrictions, <strong>Wisconsin Golden Gloves will be allowing boxers from Illinois to register and box in our tournament.</strong> This is with the understanding that <strong>Wisconsin boxers will take priority in the tournament draw,</strong> dependent on participant numbers and limitations on time. <strong>Illinois boxers will not be guaranteed a bout</strong> but we will do all we can to accommodate those that want to participate. Out-of-tournament matched bouts will also be an option.
+
+  <strong>Illinois male and female OPEN boxers may be eligible for a spot on the Wisconsin team in any unopposed weight classes, at the discretion of the Wisconsin Golden Gloves.</strong>
+<br/>
+    Are you a Wisconsin or Illinois boxer?
+    <div class="btn-group in-out-state">
+      <button id="wisconsin-button" class="blbf-btn btn-default single-select-button">Wisconsin</button>
+      <button id="out-of-state-button" class="blbf-btn btn-default single-select-button">Illinois</button>
+    </div>
+
     Are you
   <div class="btn-group boxer-gender">
     <button id="male-button" class="blbf-btn btn-default">Male</button>
@@ -150,7 +162,7 @@ registration-form: true
   <button id="boxer-attend-defnot" class="blbf-btn btn-default single-select-button">No</button>
     </div> -->
 
-    How likely are you to stay at the host hotel ($119/night)?
+    How likely are you to stay at the host hotel ($109/night)?
     <div class="btn-group boxer-host-hotel">
       <button id="boxer-host-hotel-definitely" class="blbf-btn btn-default single-select-button">Definitely</button>
       <button id="boxer-host-hotel-maybe" class="blbf-btn btn-default single-select-button">Maybe</button>
