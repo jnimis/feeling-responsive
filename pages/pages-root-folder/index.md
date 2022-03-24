@@ -7,13 +7,13 @@
 layout: frontpage
 
 # NOTE: JN 5/15/19 - need to correct margins/size of container for this - it is too tall - look in _layouts/frontpage.html
-callforaction:
-  url: /register
-  text: Register for the 2021 Tournament ›
-  style: alert
+<!-- callforaction:
+  url: /2021
+  text: Mandatory weighin/checkin Fri July 23rd, 7:30am
+  style: alert -->
 
-#specialannouncement:
-#  text: "So far so good!! The <strong>2021 Wisconsin State Golden Gloves tournament</strong> is #still on course for <strong>July 23-24th</strong>. We plan to post the <strong>online boxer #registration and 2021 tournament information here on May 1st</strong>.<br/><br/>If you're #interested in more information about Golden Gloves nationally, here's a link to the #<strong>National Golden Gloves website</strong>: <a href='http://www.goldenglovesusa.org/#'>http://www.goldenglovesusa.org/</a><br/><br/>Stay safe, stay healthy and keep training... #hope to see you in July!"
+specialannouncement:
+  text: "See Bracket information for the National Golden Gloves tournament here: <a href='https://www.allprosoftware.net/2021NGGTOURNAMENT/'>https://www.allprosoftware.net/2021NGGTOURNAMENT/</a>"
 
 widget1:
   title: "2021 Wisconsin State Golden Gloves"

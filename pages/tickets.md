@@ -4,14 +4,14 @@ title: "Tickets"
 permalink: "/tickets/"
 ---
 
-Tickets will be available on this page closer to the event date.
+<!-- Tickets will be available on this page closer to the event date. -->
 
-<div style="display:none;">
-You can purchase tickets below on this page or at EventBrite: [Friday tickets](https://2020-wi-golden-gloves-friday.eventbrite.com) and [Saturday tickets](https://2020-wi-golden-gloves-saturday.eventbrite.com) are sold separately.
+<!-- <div style="display:none;"> -->
+You can purchase tickets below on this page, or at EventBrite: [Friday tickets](https://www.eventbrite.com/e/2021-wisconsin-golden-gloves-friday-7232021-eliminations-tickets-158663010335) and [Saturday tickets](https://www.eventbrite.com/e/2021-wisconsin-golden-gloves-saturday-7242021-semi-finals-finals-tickets-158813532551) are sold separately.
 
-<div id="eventbrite-widget-container-91568400551"></div>
+<div id="eventbrite-widget-container-158663010335"></div>
 
-</div>
+<!-- </div> -->
 
 <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
 
@@ -23,8 +23,8 @@ You can purchase tickets below on this page or at EventBrite: [Friday tickets](h
     window.EBWidgets.createWidget({
         // Required
         widgetType: 'checkout',
-        eventId: '91568400551',
-        iframeContainerId: 'eventbrite-widget-container-91568400551',
+        eventId: '158663010335',
+        iframeContainerId: 'eventbrite-widget-container-158663010335',
 
         // Optional
         iframeContainerHeight: 1100,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
@@ -34,7 +34,7 @@ You can purchase tickets below on this page or at EventBrite: [Friday tickets](h
 
 
 
-<!-- <div id="eventbrite-widget-container-91812275989"></div> -->
+<div id="eventbrite-widget-container-158813532551"></div>
 
 <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
 
@@ -46,8 +46,8 @@ You can purchase tickets below on this page or at EventBrite: [Friday tickets](h
     window.EBWidgets.createWidget({
         // Required
         widgetType: 'checkout',
-        eventId: '91812275989',
-        iframeContainerId: 'eventbrite-widget-container-91812275989',
+        eventId: '158813532551',
+        iframeContainerId: 'eventbrite-widget-container-158813532551',
 
         // Optional
         iframeContainerHeight: 1100,  // Widget height in pixels. Defaults to a minimum of 425px if not provided

@@ -4,13 +4,17 @@ title: "Video Feeds"
 permalink: "/livefeed/"
 ---
 
-There will be a live feed available here during the state tournament.
+Each session of the state tournament will have a separate live feed, at the links below:
 
-We will keep the videos from past tournaments available as long as possible:
+<ul>
+<li>Friday, July 23, 2021: early session (starts at 2PM) <a href="https://www.youtube.com/watch?v=ZwN5EdJTSoY" target="_blank">https://www.youtube.com/watch?v=ZwN5EdJTSoY</a></li>
+<li>Friday, July 23, 2021: late session (starts at 6PM) <a href="https://www.youtube.com/watch?v=dQ685EBYml8" target="_blank">https://www.youtube.com/watch?v=dQ685EBYml8</a></li>
+<li>Saturday, July 24, 2021: early session (starts at 2PM) <a href="https://www.youtube.com/watch?v=Ee8jPf41NJM" target="_blank">https://www.youtube.com/watch?v=Ee8jPf41NJM</a></li>
+<li>Saturday, July 24, 2021: late session (starts at 6PM) <a href="https://www.youtube.com/watch?v=T8wzlVQ72ss" target="_blank">https://www.youtube.com/watch?v=T8wzlVQ72ss</a></li>
+<li>Sunday, July 25, 2021: (bouts begin at 12PM noon) <a href="https://www.youtube.com/watch?v=shjpJddijlg" target="_blank">https://www.youtube.com/watch?v=shjpJddijlg</a></li>
+</ul>
 
-Saturday, March 16, 2019
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lpt46lEebpw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/Lpt46lEebpw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br/>
 <br/>
@@ -18,4 +22,4 @@ Saturday, March 16, 2019
 
 Friday, March 15, 2019
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w5G94iHbneU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w5G94iHbneU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->

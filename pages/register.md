@@ -6,13 +6,13 @@ permalink: "/register/"
 registration-form: true
 ---
 
-<!-- Registration for the 2021 tournament will open May 1.   -->
+Thank you. Registration for the 2021 tournament is now closed, we are at capacity.  
 
 <!-- If you have further questions, you can <a href="/contact/">contact us here.</a> -->
 
 <!-- (click [here](/images/2020-WIGG-Register.pdf) for a printable form to mail) -->
 
-<!-- <div style="display:none;"> -->
+<div style="display:none;">
 
 <strong>NOTE:</strong> Due to recent rule changes, qualified boxers with NON CITIZEN STATUS ARE NOW ELIGIBLE TO ADVANCE with the team to the National Golden Gloves tournament.
 
@@ -231,4 +231,4 @@ registration-form: true
 	</div>
 </div> -->
 
-<!-- </div> -->
+</div>

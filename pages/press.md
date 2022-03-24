@@ -3,6 +3,9 @@ layout: page
 title: "Press"
 permalink: "/press/"
 ---
+
+[https://madison.com/wsj/print_only/columnist/jim-polzin-how-andrea-nelson-and-the-bob-lynch-boxing-foundation-resurrected-flailing-wisconsin-golden/article_32170a7b-4c83-5b1c-9c8e-cfa2ab887b1f.html](https://madison.com/wsj/print_only/columnist/jim-polzin-how-andrea-nelson-and-the-bob-lynch-boxing-foundation-resurrected-flailing-wisconsin-golden/article_32170a7b-4c83-5b1c-9c8e-cfa2ab887b1f.html)
+
 [https://madison.com/ct/sports/amateur/ring-leader-andrea-nelson-has-breathed-new-life-into-madison/article_1a901c9a-111b-5fac-88e9-999e3c589e44.html](https://madison.com/ct/sports/amateur/ring-leader-andrea-nelson-has-breathed-new-life-into-madison/article_1a901c9a-111b-5fac-88e9-999e3c589e44.html)
 
 [https://madison365.com/wisconsin-golden-gloves-178-lb-champ-william-langston-turns-pro/](https://madison365.com/wisconsin-golden-gloves-178-lb-champ-william-langston-turns-pro/)

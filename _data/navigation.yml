@@ -36,6 +36,10 @@
   url: "/photos/"
   side: left
 
+- title: Video
+  url: "/livefeed/"
+  side: left
+
 # RIGHT SIDE NAVIGATION
 
 - title: "In Our Corner"

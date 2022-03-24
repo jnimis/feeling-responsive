@@ -33,6 +33,11 @@ permalink: "/national/"
 <br/> -->
 
 
+<h4>Bracket information for the National Golden Gloves tournament: <a href='https://www.allprosoftware.net/2021NGGTOURNAMENT/'>https://www.allprosoftware.net/2021NGGTOURNAMENT/</a></h4>
+
+<img src="/images/WIGGTeam2021.jpeg" />
+<img src="/images/WIGGTeamBack2021.jpeg" />
+
 <h3>Tournament Information:</h3>
 
 <h4>Where: Tulsa, OK</h4>

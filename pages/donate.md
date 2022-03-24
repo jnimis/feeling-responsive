@@ -45,6 +45,8 @@ permalink: "/donate/"
 Aides Trophies<br/>
 <a href="https://fordsgym.com">Ford's Gym</a><br/>
 <a href="https://www.cornercam.net">CornerCam</a><br/>
+<a href="https://www.facebook.com/BoxingFiendApparel/">Boxing Fiend Apparel</a><br/>
+<a href="https://www.bluelakecg.com/">Blue Lake Consulting Group</a><br/>
 
 <h4>Thank you to our ringside physicians, whose volunteer support keeps our athlete safe:</h4>
 Dr. Dave Bryce<br/>
@@ -63,6 +65,12 @@ Jim & Mary Miedaner<br/>
 Jessie Kushner<br/>
 Paul & Susan Buckner<br/>
 Mike Freidel<br/>
+John Pullman<br/>
+Madison Hope Kenrick<br/>
+Ivan Himmel<br/>
+Chris Crivolio<br/>
+Brandon Schmid<br/>
+John Nimis<br/>
 
 <h4>Past Sponsors:</h4>
 Turtle Wax<br/>

@@ -6,7 +6,20 @@ permalink: "/bouts/"
 registration-form: false
 ---
 
-Bout and bracket information will be posted after weigh-ins on the first day of the tournament.
+<a href="/images/gg2021FriSunForBoxers.pdf">Tentative schedule for boxers (PDF)</a>
+
+<h3>Bout sheets (PDF download)</h3> (this list will be updated throughout the tournament)<br/>
+[Friday, July 23, early session (2PM)](/images/2021_Wisconsin_Golden_Gloves_FRIDAY_2_PM_BOUT_SHEET.pdf)<br/>
+[Friday, July 23, late session (6PM)](/images/2021_Wisconsin_Golden_Gloves_Friday_LATE_6PM_BOUT_SHEET_UPDATED.pdf)<br/>
+[Saturday, July 24, early session (2PM)](/images/2021_Wisconsin_Golden_Gloves_SATURDAY_2PM_BOUT_SHEET.pdf)<br/>
+[Saturday, July 24, late session (6PM)](/images/2021_Wisconsin_Golden_Gloves_SATURDAY_LATE_6PM_BOUT_SHEET.pdf)<br/>
+
+<h3>Brackets (PDF download)</h3> (this list will be updated throughout the tournament)<br/>
+[Friday, July 23, early session (2PM)](/images/2021_Wisconsin_Golden_Gloves_Friday_Early_Session.pdf)<br/>
+[Friday, July 23, late session (6PM)](/images/2021_Wisconsin_Golden_Gloves_Friday_LATE_6PM_Session.pdf)<br/>
+[Saturday, July 24, early session (2PM)](/images/2021_Wisconsin_Golden_Gloves_Saturday_EARLY_2PM_Session.pdf)<br/>
+[Saturday, July 24, late session (6PM)](/images/2021_Wisconsin_Golden_Gloves_Saturday_LATE_6PM_Session_Brackets.pdf)<br/>
+
 
 <!-- <img src="/images/165Bracket.png" style="width:80%;">
 <img src="/images/178Bracket.png" style="width:80%;">
