@@ -7,13 +7,13 @@
 layout: frontpage
 
 # NOTE: JN 5/15/19 - need to correct margins/size of container for this - it is too tall - look in _layouts/frontpage.html
-<!-- callforaction:
-  url: /2021
-  text: Mandatory weighin/checkin Fri July 23rd, 7:30am
-  style: alert -->
+callforaction:
+  url: /register
+  text: 'REGISTER NOW'
+  style: alert
 
 specialannouncement:
-  text: "See Bracket information for the National Golden Gloves tournament here: <a href='https://www.allprosoftware.net/2021NGGTOURNAMENT/'>https://www.allprosoftware.net/2021NGGTOURNAMENT/</a>"
+  text: ""
 
 widget1:
   title: "2021 Wisconsin State Golden Gloves"

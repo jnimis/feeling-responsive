@@ -70,6 +70,8 @@ Madison Hope Kenrick<br/>
 Ivan Himmel<br/>
 Chris Crivolio<br/>
 Brandon Schmid<br/>
+Andy Burish<br/>
+Greg Landry<br/>
 John Nimis<br/>
 
 <h4>Past Sponsors:</h4>
@@ -78,6 +80,12 @@ Marvel Oil<br/>
 Glass Nickel Pizza<br/>
 Nessalla Kombucha<br/>
 Burch Concrete Construction<br/>
+QTI<br/>
+TriState<br/>
+HoChunk<br/>
+Wisconsin Granite<br/>
+Madison 365<br/>
+American Family<br/>
 
 </div>
 <div style="margin-bottom:20px;">

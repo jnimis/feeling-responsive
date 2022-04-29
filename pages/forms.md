@@ -3,7 +3,7 @@ layout: page
 title: "Forms"
 permalink: "/forms/"
 ---
-<strong>Forms will be updated soon for the 2021 tournament!</strong>
+<strong>Forms will be updated soon for the 2022 tournament!</strong>
 
 [Printable Fact Sheet for 2020 Tournament](/images/2020-WIGG-FactSheet.pdf)
 

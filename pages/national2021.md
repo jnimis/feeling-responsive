@@ -1,15 +1,21 @@
 ---
 layout: page
-title: "2022 ‘Golden Gloves of America’"
-permalink: "/national/"
+title: "2021 ‘Golden Gloves of America’"
+permalink: "/national2021/"
 ---
 
-<!-- <h3>2022 Wisconsin Team:</h3>
+<!-- <h3>2019 Wisconsin Team:</h3>
 
 <h4>Boxers:</h4>
 
 <ul>
-
+<li>Ricardo Rodriguez 141# 27 yo</li>
+<li>Marcus Johnson 152# 28 yo</li>
+<li>Kade McManus 165# 18 yo</li>
+<li>Briana Che 165# 28 yo</li>
+<li>Patrick Fay 178# 26 yo</li>
+<li>Demetrius Reed 201# 26 yo</li>
+<li>Luis Alverado 201+ 19 yo</li>
 </ul>
 
 <strong>Coaches</strong>: Andrea Nelson, Jason Komaniken<br/>
@@ -27,20 +33,20 @@ permalink: "/national/"
 <br/> -->
 
 
-<!-- <h4>Bracket information for the National Golden Gloves tournament: <a href='https://www.allprosoftware.net/2021NGGTOURNAMENT/'>https://www.allprosoftware.net/2021NGGTOURNAMENT/</a></h4> -->
+<h4>Bracket information for the National Golden Gloves tournament: <a href='https://www.allprosoftware.net/2021NGGTOURNAMENT/'>https://www.allprosoftware.net/2021NGGTOURNAMENT/</a></h4>
 
-<!-- <img src="/images/WIGGTeam2021.jpeg" />
-<img src="/images/WIGGTeamBack2021.jpeg" /> -->
+<img src="/images/WIGGTeam2021.jpeg" />
+<img src="/images/WIGGTeamBack2021.jpeg" />
 
 <h3>Tournament Information:</h3>
 
 <h4>Where: Tulsa, OK</h4>
-<h4>When: Aug 15-20</h4>
+<h4>When: Aug 8-14</h4>
 
 <h4>Event Schedule:</h4>
-- Aug 13:    Team travels to Tulsa together
-- Aug 15-20:  Tournament (Finals, Sat 20th)
-- Aug 21:   Return home
+- Aug 7:    Team travels to Tulsa together
+- Aug 8-14:  Tournament (Finals, Sat 14th)
+- Aug 15:   Return home
 
 
 <!--
