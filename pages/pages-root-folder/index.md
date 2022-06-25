@@ -8,8 +8,8 @@ layout: frontpage
 
 # NOTE: JN 5/15/19 - need to correct margins/size of container for this - it is too tall - look in _layouts/frontpage.html
 callforaction:
-  url: /register
-  text: 'REGISTER NOW'
+  url: /tickets
+  text: 'BUY TICKETS NOW'
   style: alert
 
 specialannouncement:
