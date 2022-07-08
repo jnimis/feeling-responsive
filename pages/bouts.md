@@ -6,4 +6,10 @@ permalink: "/bouts/"
 registration-form: false
 ---
 
-<h5>Tournament brackets will be posted here on the day of the bouts, as early as possible</h5>
+<!-- (Brackets are below) -->
+<h4>Tournament Brackets</h4>
+<a href="/images/2022GGBrackets.pdf">Download PDF</a>
+
+
+<h4>Friday Bouts</h4> (<a href="/images/2022FridayBouts.pdf">download here</a>)
+<img src="/images/2022FridayBouts.png"/>
