@@ -10,6 +10,8 @@ Registration for the 2020 tournament will begin January 1, 2020!  Use the "Conta
 
 <div style="display:none;">
 
+<input id="invalid_form" value="true" type="hidden">
+
 (click [here](/images/WIGG-2019registration.pdf) for a printable form to mail)
 
 <strong>NOTE:</strong> Boxers must be citizens or legal residents to advance to the National tournament.

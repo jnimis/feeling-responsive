@@ -12,6 +12,8 @@ Registration for the 2020 tournament is now closed.  If you have further questio
 
 <div style="display:none;">
 
+<input id="invalid_form" value="true" type="hidden">
+
 <strong>NOTE:</strong> Boxers must be citizens or legal residents to advance to the National tournament.
 Non-citizens may box in the novice divisions and in out-of-tournament match-bouts.
 

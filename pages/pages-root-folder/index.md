@@ -8,12 +8,13 @@ layout: frontpage
 
 # NOTE: JN 5/15/19 - need to correct margins/size of container for this - it is too tall - look in _layouts/frontpage.html
 callforaction:
-  url: /tickets
-  text: 'BUY TICKETS NOW'
-  style: alert
+#  url: /tickets
+#  text: 'BUY TICKETS NOW'
+#  style: alert
 
 specialannouncement:
-  text: ""
+  text: "Congratulations to the 2022 Wisconsin Golden Gloves team!"
+  imageUrl: /images/2022TeamPhoto.jpg
 
 widget1:
   title: "2021 Wisconsin State Golden Gloves"

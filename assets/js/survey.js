@@ -174,6 +174,12 @@ $(document).ready(function() {
 
   $('#submit-boxer').on('click', function() {
 
+    var isOutdatedForm = $('#invalid_form').val() == 'true';
+    if (isOutdatedForm) {
+      showModal(true, "Incorrect Registration Page", "You are using an outdated version of this form. Please use the links in the menu to find the most recent registration page.");
+      return;
+    }
+
     var gender = $('.boxer-gender .btn-primary').text();
     var weightSelector = (gender === 'Male') ? '#male-weight-classes' : '#female-weight-classes';
     var weightClass = $(weightSelector + ' .btn-primary').text();

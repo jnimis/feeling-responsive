@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "2022 ‘Golden Gloves of America’"
+title: "2023 ‘Golden Gloves of America’"
 permalink: "/national/"
 ---
 
@@ -34,13 +34,13 @@ permalink: "/national/"
 
 <h3>Tournament Information:</h3>
 
-<h4>Where: Tulsa, OK</h4>
-<h4>When: Aug 15-20</h4>
+<h4>Where: Philadelphia, PA</h4>
+<h4>When: May 7-13, 2023</h4>
 
 <h4>Event Schedule:</h4>
-- Aug 13:    Team travels to Tulsa together
-- Aug 15-20:  Tournament (Finals, Sat 20th)
-- Aug 21:   Return home
+- May 6:    Team travels to Philadelphia together
+- May 7-13:  Tournament (Finals, Sat 13th)
+- May 14:   Team returns home together
 
 
 <!--

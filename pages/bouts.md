@@ -10,6 +10,8 @@ registration-form: false
 <h4>Tournament Brackets</h4>
 <a href="/images/2022GGBrackets.pdf">Download PDF</a>
 
+<h4>Saturday Bouts</h4> (<a href="/images/2022SaturdayBouts.png">download here</a>)
+<img src="/images/2022SaturdayBouts.png"/>
 
 <h4>Friday Bouts</h4> (<a href="/images/2022FridayBouts.pdf">download here</a>)
 <img src="/images/2022FridayBouts.png"/>

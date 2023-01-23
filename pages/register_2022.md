@@ -2,17 +2,19 @@
 layout: page
 title: "Registration"
 subheadline: "2022 Wisconsin State Tournament"
-permalink: "/register/"
+permalink: "/register_2022/"
 registration-form: true
 ---
 
-Thank you. Registration for the 2022 tournament is now closed.  
+2023 Tournament registration will open January 8 - this page will be updated soon.  
 
 <!-- If you have further questions, you can <a href="/contact/">contact us here.</a> -->
 
 <!-- (click [here](/images/2020-WIGG-Register.pdf) for a printable form to mail) -->
 
 <div style="display:none;">
+
+<input id="invalid_form" value="true" type="hidden">
 
 <strong>NOTE:</strong> Due to recent rule changes, qualified boxers with NON CITIZEN STATUS ARE NOW ELIGIBLE TO ADVANCE with the team to the National Golden Gloves tournament.
 
