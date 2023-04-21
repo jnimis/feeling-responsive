@@ -25,6 +25,8 @@ permalink: "/donate/"
 <h4><a href="https://www.ho-chunkgaming.com/madison/">Ho Chunk Gaming Madison</a></h4><br/>
 <a href="http://tristatebasementrepair.com/">Tri-State Basement Repair</a><br/>
 <a href="https://www.hoffconstructioninc.com/">Hoff Construction</a><br/>
+Advanced Fastening Supply, Inc.<br/>
+<a href="https://www.hdofmadison.com/">Harley Davidson of Madison</a><br/>
 <a href="https://www.qtigroup.com/">The QTI Group</a><br/>
 <a href="http://badgerstateproductions.com/">Badger State Productions</a><br/>
 <a href="https://www.huschblackwell.com/">Husch Blackwell</a><br/>

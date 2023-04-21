@@ -1,13 +1,12 @@
 ---
 layout: page
-title: "Brackets and Bouts"
+title: "TEST Brackets and Bouts"
 subheadline: "2023 Wisconsin State Tournament"
-permalink: "/bouts/"
+permalink: "/boutstest/"
 year: 2023
 registration-form: false
 ---
 
-<!-- ### Bout and Bracket information will be posted here during the tournament weekend. -->
 ### Tournament Brackets
 [Download PDF](/images/{{page.year}}GGBrackets.pdf)
 
