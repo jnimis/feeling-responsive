@@ -13,8 +13,8 @@ callforaction:
 #  style: alert
 
 specialannouncement:
-  text: "Congratulations to the 2022 Wisconsin Golden Gloves team!"
-  imageUrl: /images/2022TeamPhoto.jpg
+  #text: ""
+  #imageUrl: /images/2022TeamPhoto.jpg
 
 widget1:
   title: "2021 Wisconsin State Golden Gloves"
