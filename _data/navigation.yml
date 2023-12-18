@@ -10,15 +10,17 @@
     url: "/register/"
   - title: "Brackets and Bouts"
     url: "/bouts/"
-  - title: "2023 State Tournament"
-    url: "/2023/"
+  - title: "2024 State Tournament"
+    url: "/2024/"
   - title: "National Tournament"
     url: "/national/"
   - title: Forms
     url: "/forms/"
   - title: Past Tournaments
-    url: "/2022/"
+    url: "/2023/"
     dropdown:
+      - title: 2023
+        url: "/2023/"
       - title: 2022
         url: "/2022/"
       - title: 2021

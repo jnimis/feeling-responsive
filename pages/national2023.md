@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "2024 ‘Golden Gloves of America’"
-permalink: "/national/"
+title: "2023 ‘Golden Gloves of America’"
+permalink: "/national2023/"
 ---
 
 <!-- <h3>2022 Wisconsin Team:</h3>
@@ -34,15 +34,26 @@ permalink: "/national/"
 
 <h3>Tournament Information:</h3>
 
-<h4>Where: Detroit, MI</h4>
-<h4>When: May 13-18, 2024</h4>
+<h4>Where: Philadelphia, PA</h4>
+<h4>When: May 7-13, 2023</h4>
 
 <h4>Event Schedule:</h4>
-- May 11:    Team travels to Detroit together
-- May 13-18:  Tournament (Finals, Sat 18th)
-- May 19:   Team returns home together
+- May 6:    Team travels to Philadelphia together
+- May 7-13:  Tournament (Finals, Sat 13th)
+- May 14:   Team returns home together
+
+
+<!--
+<h4>Howard Passman/NOGGOA Scholarship:</h4>
+** Champions from our state tournament who will be competing in Chattanooga have the opportunity to apply for an academic scholarship. Click <a href="/images/scholarshipApplication.pdf">here</a> to download the application, then return it to:<br/>
+boblynchboxing@gmail.com<br/>
+Or<br/>
+Bob Lynch Boxing Foundation<br/>
+7058 Raymond Rd<br/>
+Madison WI 57319<br/>
+-->
 
 <h4>For the Team:</h4>
 Travel, Lodging, Food, Team Warm-ups and Uniforms will be provided by the <strong>Bob Lynch Boxing Foundation & Wisconsin Golden Gloves.</strong>
 
-We will be traveling as a team.
+We will be traveling as a team. Team members may choose alternative travel or lodging at their own expense.

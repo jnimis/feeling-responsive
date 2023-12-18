@@ -21,20 +21,18 @@ permalink: "/donate/"
 <div style="margin-bottom:20px;">
 
 <h4><a href="http://www.bkfnd.com/">Bradshaw Knight Foundation</a></h4>
-<h4><a href="http://www.vortexoptics.com/">Vortex Optics</a></h4>
 <h4><a href="https://www.ho-chunkgaming.com/madison/">Ho Chunk Gaming Madison</a></h4><br/>
 <a href="http://tristatebasementrepair.com/">Tri-State Basement Repair</a><br/>
-<a href="https://www.hoffconstructioninc.com/">Hoff Construction</a><br/>
 Advanced Fastening Supply, Inc.<br/>
 <a href="https://www.hdofmadison.com/">Harley Davidson of Madison</a><br/>
-<a href="https://www.qtigroup.com/">The QTI Group</a><br/>
 <a href="http://badgerstateproductions.com/">Badger State Productions</a><br/>
-<a href="https://www.huschblackwell.com/">Husch Blackwell</a><br/>
 <a href="http://www.gothambagels.com/">Gotham Bagels</a><br/>
 <a href="http://screendoorprinting.com/">ScreenDoor Printing</a><br/>
-<a href="https://twistedfitnessgym.com/">Twisted Fitness</a><br/>
 <a href="http://wisconsingranite.com/">Wisconsin Granite</a><br/>
 <a href="https://madison365.com/">Madison365</a><br/>
+<a href="https://sites.google.com/view/badappletattoos/home?authuser=1">Bad Apple Tattoo</a><br/>
+<a href="https://redmousebar.com/">The Red Mouse</a><br/>
+<a href="https://logoproswi.com/">Logo Promotions</a><br/>
 <br/>
 <a href="">Madison Area Sports Commission</a><br/>
 <a href="">Middleton Tourism Commission</a><br/>
@@ -54,6 +52,7 @@ Aides Trophies<br/>
 Dr. Dave Bryce<br/>
 Dr. John Ernst<br/>
 Dr. Pat Sullivan<br/>
+Dr. Tim Roberts<br/>
 
 <h4>Individual Supporters:</h4>
 McAloon Family & Friends<br/>
@@ -77,17 +76,21 @@ Greg Landry<br/>
 John Nimis<br/>
 
 <h4>Past Sponsors:</h4>
+Vortex Optics<br/>
 Turtle Wax<br/>
 Marvel Oil<br/>
+Hoff Construction<br/>
 Glass Nickel Pizza<br/>
 Nessalla Kombucha<br/>
 Burch Concrete Construction<br/>
-QTI<br/>
 TriState<br/>
 HoChunk<br/>
 Wisconsin Granite<br/>
 Madison 365<br/>
 American Family<br/>
+The QTI Group<br/>
+Husch Blackwell<br/>
+Twisted Fitness<br/>
 
 </div>
 <div style="margin-bottom:20px;">

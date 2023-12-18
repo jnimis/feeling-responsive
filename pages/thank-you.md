@@ -5,7 +5,7 @@ teaser: "Thank you for registering for Wisconsin Golden Gloves!"
 permalink: "/thank-you/"
 ---
 
-We'll see you in Madison on April 7!
+We'll see you in Madison on March 29!
 
 **** Make sure to bring:
  - USA Boxing passbook
@@ -13,7 +13,7 @@ We'll see you in Madison on April 7!
  - All required boxing equipment
  - $20 registration fee
 
-(see detailed information [here]({{url}}/2023))
+(see detailed information [here]({{url}}/2024))
 
 <a href="/">
 <button>Wisconsin Golden Gloves Home</button></a>

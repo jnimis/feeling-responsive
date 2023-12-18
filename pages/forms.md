@@ -3,11 +3,10 @@ layout: page
 title: "Forms"
 permalink: "/forms/"
 ---
-<strong>Forms will be updated soon for the 2023 tournament!</strong>
 
-[Printable Fact Sheet for 2020 Tournament](/images/2020-WIGG-FactSheet.pdf)
+<!-- [Printable Fact Sheet for 2020 Tournament](/images/2020-WIGG-FactSheet.pdf) -->
 
-2021 Tournament Registration Form ([online form](/register/) or download [printable form](/images/2020-WIGG-Register.pdf))
+2024 Tournament Registration [online form](/register/)
 
 [Register with USA Boxing](https://webpoint.usaboxing.org/) (external link)
 

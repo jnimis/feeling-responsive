@@ -1,12 +1,12 @@
 ---
 layout: page
 title: "Registration"
-subheadline: "2023 Wisconsin State Tournament"
-permalink: "/register_2023/"
+subheadline: "2024 Wisconsin State Tournament"
+permalink: "/register/"
 registration-form: true
 ---
 
-2023 registration is now closed. See you Fri April 7, 7am for weigh-ins!  
+Registration for the 2024 tournament will open on January 1st, 2024.
 
 <!-- If you have further questions, you can <a href="/contact/">contact us here.</a> -->
 
@@ -79,7 +79,6 @@ registration-form: true
       <button class="blbf-btn single-select-button">156*</button>
       <button class="blbf-btn single-select-button">165</button>
       <button class="blbf-btn single-select-button">176*</button>
-      <button class="blbf-btn single-select-button">189</button>
       <button class="blbf-btn single-select-button">203*</button>
       <button class="blbf-btn single-select-button">203+*</button>
       </div>

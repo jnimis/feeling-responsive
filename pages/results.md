@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "2019 Tournament Results"
+title: "2024 Tournament Results"
 permalink: "/results/"
 ---
-No results yet!  Check back during the tournament (July 23-17, 2021)
+No results yet!  Check back during the tournament (March 29-30, 2024)
