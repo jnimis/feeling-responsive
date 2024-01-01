@@ -6,17 +6,15 @@ permalink: "/register/"
 registration-form: true
 ---
 
-Registration for the 2024 tournament will open on January 1st, 2024.
+<!-- Registration for the 2024 tournament will open on January 1st, 2024. -->
 
 <!-- If you have further questions, you can <a href="/contact/">contact us here.</a> -->
 
 <!-- (click [here](/images/2020-WIGG-Register.pdf) for a printable form to mail) -->
 
-<div style="display:none;">
+<!-- <div style="display:none;"> -->
 
 <input id="invalid_form" value="false" type="hidden">
-
-<strong>NOTE:</strong> Due to recent rule changes, qualified boxers with NON CITIZEN STATUS ARE NOW ELIGIBLE TO ADVANCE with the team to the National Golden Gloves tournament.
 
 <div class="row">
 <div class="col-xs-12">
@@ -114,10 +112,10 @@ Registration for the 2024 tournament will open on January 1st, 2024.
   </div>
   <br/>
 
-    Age as of April 7, 2023? <input type="number" id="age" style="width:60px;display:inline-block;"/><hr/>
+    Age as of March 29, 2024? <input type="number" id="age" style="width:60px;display:inline-block;"/><hr/>
 
 
-    <!-- Do you plan to attend Wisconsin Golden Gloves in Madison in March/April 2020?
+    <!-- Do you plan to attend Wisconsin Golden Gloves in Madison in March/April 2024?
     <div class="btn-group boxer-attend">
       <button id="boxer-attend-definitely" class="blbf-btn btn-default single-select-button">Definitely</button>
       <button id="boxer-attend-maybe" class="blbf-btn btn-default single-select-button">Maybe</button>
@@ -151,7 +149,7 @@ Registration for the 2024 tournament will open on January 1st, 2024.
 
   </div>
 
-  </div>
+  <!-- </div> -->
 
   <div class="modal fade" id="blbf-error-modal">
   <div class="modal-dialog" role="document">

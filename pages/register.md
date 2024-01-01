@@ -1,12 +1,12 @@
 ---
 layout: page
 title: "Registration"
-subheadline: "2021 Wisconsin State Tournament"
-permalink: "/register-old/"
+subheadline: "2024 Wisconsin State Tournament"
+permalink: "/register_old/"
 registration-form: true
 ---
 
-Thank you. Registration for the 2021 tournament is now closed, we are at capacity.  
+Registration for the 2024 tournament will open on January 1st, 2024.  
 
 <!-- If you have further questions, you can <a href="/contact/">contact us here.</a> -->
 
