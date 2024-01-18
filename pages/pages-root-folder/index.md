@@ -13,7 +13,7 @@ callforaction:
 #  style: alert
 
 specialannouncement:
-  text: "Boxer registration for the 2024 state tournament will open January 1st!"
+  text: 'Registration for the 2024 state tournament is now open!<br/><a href="/register/">Register here</a>'
   #imageUrl: /images/2022TeamPhoto.jpg
 
 widget1:
