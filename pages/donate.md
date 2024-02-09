@@ -27,6 +27,9 @@ Advanced Fastening Supply, Inc.<br/>
 <a href="https://www.hdofmadison.com/">Harley Davidson of Madison</a><br/>
 <a href="http://badgerstateproductions.com/">Badger State Productions</a><br/>
 <a href="http://www.gothambagels.com/">Gotham Bagels</a><br/>
+<a href="https://goodmansjewelers.com/">Goodman's Jewelers</a><br/>
+<a href="https://www.herbalaspect.com/">Herbal Aspect</a><br/>
+<a href="https://www.eti-motors.com/">Electro Tech, Inc.</a><br/>
 <a href="http://screendoorprinting.com/">ScreenDoor Printing</a><br/>
 <a href="http://wisconsingranite.com/">Wisconsin Granite</a><br/>
 <a href="https://madison365.com/">Madison365</a><br/>
