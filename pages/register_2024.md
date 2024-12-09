@@ -6,13 +6,13 @@ permalink: "/register/"
 registration-form: true
 ---
 
-<!-- Registration for the 2024 tournament will open on January 1st, 2024. -->
+<p>Online Registration for the 2024 tournament in now closed.
 
-<!-- If you have further questions, you can <a href="/contact/">contact us here.</a> -->
+<p>If you have further questions, you can <a href="/contact/">contact us here.</a>
 
 <!-- (click [here](/images/2020-WIGG-Register.pdf) for a printable form to mail) -->
 
-<!-- <div style="display:none;"> -->
+<div style="display:none;">
 
 <input id="invalid_form" value="false" type="hidden">
 
