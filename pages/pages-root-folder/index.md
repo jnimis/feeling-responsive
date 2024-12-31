@@ -13,7 +13,8 @@ callforaction:
 #  style: alert
 
 specialannouncement:
-  text: 'Registration for the 2024 state tournament is now open!<br/><a href="/register/">Register here</a>'
+  text: 'Registration for the 2025 state tournament is opening soon!<br/>'
+  # registration button: <a href="/register/">Register here</a>
   #imageUrl: /images/2022TeamPhoto.jpg
 
 widget1:

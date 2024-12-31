@@ -12,6 +12,10 @@
 
 $(document).ready(function() {
 
+  function sleep(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+  }
+
   function formatForSelected($button) {
     $button.blur();
     $button.parent().find('.blbf-btn').removeClass('btn-primary');
@@ -68,11 +72,9 @@ $(document).ready(function() {
 		lambda.invoke(params, function(error, data) {
 
 		  if (error) {
-        $('#blbf-loading-modal').modal('hide').on('hidden.bs.modal', function() {
-          showModal(true, 'Submission Error', error);
-        });
-
-
+        $('#blbf-loading-modal').modal('hide');
+        sleep(2000);
+        showModal(true, 'Submission Error', error);
 		  } else {
 		    var result = JSON.parse(data.Payload);
 //			  $('#results').html(pullResults);
@@ -80,7 +82,7 @@ $(document).ready(function() {
           // navigate to thank you page
           window.location.href = "/thank-you";
         } else {
-          showModal(true, 'Submission error', 'There was a server problem when submitting your form. Please try again, or contact boblynchboxingfoundation@gmail.com')
+          showModal(true, 'Submission error', 'There was a server problem when submitting your form. Please try again, or contact boblynchboxing@gmail.com')
         }
 
 		  }
@@ -214,8 +216,10 @@ $(document).ready(function() {
     if (age == undefined || age == '') { errors.push('age'); }
     if (experience == undefined || experience == '') { errors.push('experience level'); }
     // if (willAttend == undefined || willAttend == '') { errors.push('will attend'); }
-    if (hostHotel == undefined || hostHotel == '' || otherHotel == undefined || otherHotel == '' || dailyTravel == undefined || dailyTravel == '') { errors.push('hotel plans'); }
-    if (!hasValidEmail($('#email').val()) && !hasValidPhoneNumber($('#phone').val())) { errString = 'You must enter a valid email or phone number! ';}
+    // if (hostHotel == undefined || hostHotel == '' || otherHotel == undefined || otherHotel == '' || dailyTravel == undefined || dailyTravel == '') { errors.push('hotel plans'); }
+    if (!hasValidEmail($('#email').val()) || !hasValidPhoneNumber($('#phone').val())) { errString = 'You must enter a valid email and phone number! ';}
+    if (shirtSize == undefined || shirtSize == '') { errors.push('shirt size'); }
+    console.log("shirt size: " + shirtSize);
 
     if (errors.length > 0) {
       errString += 'No answer chosen for ' + errors.concat(', ');

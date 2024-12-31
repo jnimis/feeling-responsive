@@ -3,22 +3,24 @@
   side: left
 
 - title: State Tournament
-  url: "/2024/"
+  url: "/2025/"
   side: left
   dropdown:
   - title: "REGISTER NOW"
     url: "/register/"
   - title: "Brackets and Bouts"
     url: "/bouts/"
-  - title: "2024 State Tournament"
-    url: "/2024/"
+  - title: "2025 State Tournament"
+    url: "/2025/"
   - title: "National Tournament"
     url: "/national/"
   - title: Forms
     url: "/forms/"
   - title: Past Tournaments
-    url: "/2023/"
+    url: "/2024/"
     dropdown:
+      - title: 2024
+        url: "/2024/"
       - title: 2023
         url: "/2023/"
       - title: 2022

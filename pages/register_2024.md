@@ -2,7 +2,7 @@
 layout: page
 title: "Registration"
 subheadline: "2024 Wisconsin State Tournament"
-permalink: "/register/"
+permalink: "/register_2024/"
 registration-form: true
 ---
 

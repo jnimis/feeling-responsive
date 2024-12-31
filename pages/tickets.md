@@ -4,8 +4,9 @@ title: "Tickets"
 permalink: "/tickets/"
 ---
 
+Tickets will be available for purchase soon on this page.
 
-You can purchase tickets below on this page, or at EventBrite: [Friday tickets](https://www.eventbrite.com/e/2024-wisconsin-golden-gloves-friday-3292024-eliminations-tickets-817570464267) and [Saturday tickets](https://www.eventbrite.com/e/2024-wisconsin-golden-gloves-saturday-3302024-semi-finals-finals-tickets-817590674717) are sold separately.
+<!-- You can purchase tickets below on this page, or at EventBrite: [Friday tickets](https://www.eventbrite.com/e/2024-wisconsin-golden-gloves-friday-3292024-eliminations-tickets-817570464267) and [Saturday tickets](https://www.eventbrite.com/e/2024-wisconsin-golden-gloves-saturday-3302024-semi-finals-finals-tickets-817590674717) are sold separately.
 
 <div id="eventbrite-widget-container-817570464267"></div>
 
@@ -49,5 +50,5 @@ You can purchase tickets below on this page, or at EventBrite: [Friday tickets](
         iframeContainerHeight: 1100,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
-</script>
+</script> -->
 
