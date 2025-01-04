@@ -34,6 +34,18 @@ Most pages are updated under "pages":
 
 ** __IMPORTANT__: the `survey.js` file is coupled with the `register.md` file - if you make changes in one without changing the other, it will probably break functionality (especially validation of weight classes, etc)
 
+### EMAIL TEMPLATE:
+The command to upload the email template to SES is this:
+```
+ aws ses create-template --template TemplateName=WIGGEmailConfirmation,SubjectPart="Registration for WI Golden Gloves",HtmlPart="$TEMPLATE"  
+ ```
+
+ The command to send an email from the CLI looks like this:
+
+ ```
+ aws ses send-templated-email --source boblynchboxing@gmail.com --destination ToAddresses=john.nimis@gmail.com --template WIGGEmailConfirmation --template-data "{ \"year\":\"2025\", \"date\": \"April 18\" }"
+ ```
+
 ### OTHER INFORMATION:
 Google Analytics is linked to the boblynchboxingfoundation email, so
   you can see stats by logging in to that google account and visiting analytics.google.com
