@@ -4,11 +4,11 @@ title: "Tickets"
 permalink: "/tickets/"
 ---
 
-Tickets will be available for purchase soon on this page.
+<!-- Tickets will be available for purchase soon on this page. -->
 
-<!-- You can purchase tickets below on this page, or at EventBrite: [Friday tickets](https://www.eventbrite.com/e/2024-wisconsin-golden-gloves-friday-3292024-eliminations-tickets-817570464267) and [Saturday tickets](https://www.eventbrite.com/e/2024-wisconsin-golden-gloves-saturday-3302024-semi-finals-finals-tickets-817590674717) are sold separately.
+You can purchase tickets below on this page, or at EventBrite: [Friday tickets](https://www.eventbrite.com/e/2025-wisconsin-golden-gloves-friday-4182025-eliminations-tickets-1203979718749) and [Saturday tickets](https://www.eventbrite.com/e/2025-wisconsin-golden-gloves-saturday-4192025-semi-finals-finals-tickets-1203979718749) are sold separately.
 
-<div id="eventbrite-widget-container-817570464267"></div>
+<div id="eventbrite-widget-container-1203979718749"></div>
 
 <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
 
@@ -20,18 +20,18 @@ Tickets will be available for purchase soon on this page.
     window.EBWidgets.createWidget({
         // Required
         widgetType: 'checkout',
-        eventId: '817570464267',
-        iframeContainerId: 'eventbrite-widget-container-817570464267',
+        eventId: '1203979718749',
+        iframeContainerId: 'eventbrite-widget-container-1203979718749',
 
         // Optional
-        iframeContainerHeight: 1100,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
 </script>
 
 
 
-<div id="eventbrite-widget-container-817590674717"></div>
+<div id="eventbrite-widget-container-1203979718749"></div>
 
 <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
 
@@ -43,12 +43,12 @@ Tickets will be available for purchase soon on this page.
     window.EBWidgets.createWidget({
         // Required
         widgetType: 'checkout',
-        eventId: '817590674717',
-        iframeContainerId: 'eventbrite-widget-container-817590674717',
+        eventId: '1203979718749',
+        iframeContainerId: 'eventbrite-widget-container-1203979718749',
 
         // Optional
         iframeContainerHeight: 1100,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
-</script> -->
+</script>
 
