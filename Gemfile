@@ -11,3 +11,4 @@ end
 gem 'asciidoctor', '~> 1.5.4'
 gem 'coderay', '1.1.1'
 
+gem 's3_website_revived', '~> 4.0', '>= 4.0.1'

@@ -51,4 +51,3 @@ You can purchase tickets below on this page, or at EventBrite: [Friday tickets](
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
 </script>
-

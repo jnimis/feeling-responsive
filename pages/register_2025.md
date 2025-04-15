@@ -17,7 +17,7 @@ registration-form: true
 <div class="row">
 <div class="col-xs-12">
 
-<label for="name">Name: </label><input type="text" id="name"/>
+<label for="name">First and Last Name: </label><input type="text" id="name"/>
 <label for="address">Street Address: </label><input type="text" id="address"/>
 <label for="cityzip">City, State, Zip: </label><input type="text" id="cityzip"/>
 <label for="email">Email: </label><input type="text" id="email" style="max-width:300px;"/>
