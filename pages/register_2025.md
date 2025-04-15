@@ -8,7 +8,9 @@ registration-form: true
 
 <!-- (click [here](/images/2020-WIGG-Register.pdf) for a printable form to mail) -->
 
-<!-- <div style="display:none;"> -->
+<h3>Registration is now closed for the 2025 Wisconsin State Tournament.</h3>
+
+<div style="display:none;">
 
 <input id="invalid_form" value="false" type="hidden">
 
@@ -174,7 +176,7 @@ registration-form: true
       </div>
     </div>
   </div>
-  <!-- </div> -->
+  </div>
 
 
 <!-- <div id="blbf-error-modal" class="blbf-overlay">
