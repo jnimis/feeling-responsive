@@ -1,17 +1,17 @@
 ---
 layout: page
 title: "Brackets and Bouts"
-subheadline: "2024 Wisconsin State Tournament"
+subheadline: "2025 Wisconsin State Tournament"
 permalink: "/bouts/"
-year: 2024
+year: 2025
 registration-form: false
 ---
 
 
 
-<!-- ### Bout and Bracket information coming soon! -->
+### Bout and Bracket information coming soon!
 
-### Tournament Brackets
+<!-- ### Tournament Brackets
 [Download PDF](/images/{{page.year}}GGBrackets.pdf)
 
 ### Saturday Bouts  
@@ -20,5 +20,5 @@ registration-form: false
 
 ### Friday Bouts
 [Download here](/images/{{page.year}}FridayBouts.pdf)
-![friday bouts](/images/{{page.year}}FridayBouts.png)
+![friday bouts](/images/{{page.year}}FridayBouts.png) -->
 

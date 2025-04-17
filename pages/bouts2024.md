@@ -2,7 +2,7 @@
 layout: page
 title: "Brackets and Bouts"
 subheadline: "2024 Wisconsin State Tournament"
-permalink: "/bouts/"
+permalink: "/bouts2024/"
 year: 2024
 registration-form: false
 ---
