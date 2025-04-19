@@ -14,9 +14,9 @@ registration-form: false
 ### Tournament Brackets
 [Download PDF](/images/{{page.year}}GGBrackets.pdf)
 
-<!-- ### Saturday Bouts  
+### Saturday Bouts  
 [Download here](/images/{{page.year}}SaturdayBouts.pdf)
-![saturday bouts](/images/{{page.year}}SaturdayBouts.png) -->
+![saturday bouts](/images/{{page.year}}SaturdayBouts.png)
 
 ### Friday Bouts
 [Download here](/images/{{page.year}}FridayBouts.pdf)
