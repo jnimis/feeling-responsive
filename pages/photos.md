@@ -3,7 +3,6 @@ layout: page
 title: "Photos"
 permalink: "/photos/"
 is-gallery: true
-blog: https://millarian.com/code/adding-an-instagram-feed-to-jekyll/
 ---
 
-{% include instagram.html username="wigoldengloves" %}
+High-quality photos from past tournaments can be found on <a href="https://www.ronlutzii-photographer.com/Sports/Bob-Lynch-Boxing-Foundation/Wisconsin-Golden-Gloves" target="_blank">the website of our photographer, Ron Lutz, II</a>.

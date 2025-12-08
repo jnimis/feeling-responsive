@@ -4,7 +4,9 @@ title: "Tickets"
 permalink: "/tickets/"
 ---
 
-<!-- Tickets will be available for purchase soon on this page. -->
+Tickets will be available for purchase soon on this page.
+
+<div style="display:none;">
 
 You can purchase tickets below on this page, or at EventBrite: [Friday tickets](https://www.eventbrite.com/e/2025-wisconsin-golden-gloves-friday-4182025-eliminations-tickets-1203979718749) and [Saturday tickets](https://www.eventbrite.com/e/2025-wisconsin-golden-gloves-saturday-4192025-semi-finals-finals-tickets-1204005194949) are sold separately.
 
@@ -51,3 +53,5 @@ You can purchase tickets below on this page, or at EventBrite: [Friday tickets](
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
 </script>
+
+</div>

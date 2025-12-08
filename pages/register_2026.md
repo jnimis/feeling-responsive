@@ -1,16 +1,16 @@
 ---
 layout: page
 title: "Registration"
-subheadline: "2025 Wisconsin State Tournament"
-permalink: "/register/"
+subheadline: "2026 Wisconsin State Tournament"
+permalink: "/register_2026/"
 registration-form: true
 ---
 
 <!-- (click [here](/images/2020-WIGG-Register.pdf) for a printable form to mail) -->
 
-<h3>Registration opens January 1st for the 2026 Wisconsin State Tournament.</h3>
+<!-- <h3>Registration is now closed for the 2025 Wisconsin State Tournament.</h3> -->
 
-<div style="display:none;">
+<!-- <div style="display:none;"> -->
 
 <input id="invalid_form" value="false" type="hidden">
 
@@ -103,14 +103,14 @@ registration-form: true
   <div class="btn-group boxer-experience">
   Amateur experience:<br/>
   Number of bouts? <input type="number" id="numbouts" style="width:80px;display:inline-block;"/><br/>
-  note: a boxer with 6+ bouts may choose to register as "OPEN" with approval and discretion of their coach and GG officials
+  note: a boxer with 8+ bouts may choose to register as "OPEN" with approval and discretion of their coach and GG officials
     <button id="novice-button" class="blbf-btn btn-default single-select-button">True Novice (0-3 bouts)</button>
     <button id="super-novice-button" class="blbf-btn btn-default single-select-button">Novice (4-9 bouts)</button>
     <button id="open-button" class="blbf-btn btn-default single-select-button">Open (10 + bouts)</button>
   </div>
   <br/>
 
-    Age as of April 18, 2025? <input type="number" id="age" style="width:60px;display:inline-block;"/><hr/>
+    Age as of April 3, 2026? <input type="number" id="age" style="width:60px;display:inline-block;"/><hr/>
 
 
     <!-- Do you plan to attend Wisconsin Golden Gloves in Madison in April 2025?
@@ -127,25 +127,11 @@ registration-form: true
       <button id="boxer-host-hotel-defnot" class="blbf-btn btn-default single-select-button">No</button>
     </div>
 
-    How likely are you to stay at a different nearby hotel?
-    <div class="btn-group boxer-other-hotel">
-      <button id="boxer-other-hotel-definitely" class="blbf-btn btn-default single-select-button">Definitely</button>
-      <button id="boxer-other-hotel-maybe" class="blbf-btn btn-default single-select-button">Maybe</button>
-      <button id="boxer-other-hotel-defnot" class="blbf-btn btn-default single-select-button">No</button>
-    </div>
-
-    How likely are you to travel from home each day instead of staying?
-    <div class="btn-group boxer-travel-each-day">
-      <button id="boxer-travel-daily-definitely" class="blbf-btn btn-default single-select-button">Definitely</button>
-      <button id="boxer-travel-daily-maybe" class="blbf-btn btn-default single-select-button">Maybe</button>
-      <button id="boxer-travel-daily-defnot" class="blbf-btn btn-default single-select-button">No</button>
-    </div>
-
-    <h3>A $20 registration fee will be collected at check-in on the tournament start day</h3>
+    <h3>A $25 registration fee will be collected at check-in on the tournament start day</h3>
 
     <button id="submit-boxer" class="blbf-btn btn-primary">Submit</button>
 
-  </div>
+  <!-- </div> -->
 
   <!-- </div> -->
 

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "2026 ‘Golden Gloves of America’"
-permalink: "/national/"
+title: "2025 ‘Golden Gloves of America’"
+permalink: "/national2025/"
 ---
 
 <!-- <h3>2022 Wisconsin Team:</h3>
@@ -35,12 +35,12 @@ permalink: "/national/"
 <h3>Tournament Information:</h3>
 
 <h4>Where: Tulsa, OK</h4>
-<h4>When: May 10-16, 2026</h4>
+<h4>When: May 11-17, 2025</h4>
 
 <h4>Event Schedule:</h4>
-- May 9:      Team travels to Tulsa together
-- May 10-16:  Tournament (Finals, Saturday May 16th)
-- May 17:     Team returns home together
+- May 10:    Team travels to Tulsa together
+- May 11-17:  Tournament (Finals, Sat 17th)
+- May 18:   Team returns home together
 
 <h4>For the Team:</h4>
 Travel, Lodging, Food, Team Warm-ups and Uniforms will be provided by the <strong>Bob Lynch Boxing Foundation & Wisconsin Golden Gloves.</strong>

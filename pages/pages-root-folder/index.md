@@ -13,20 +13,20 @@ callforaction:
 #  style: alert
 
 specialannouncement:
-  text: 'Registration for the 2025 state tournament is now open!<br/><a href="/register/">Register here</a>'
-  # registration button: <a href="/register/">Register here</a>
+  text: 'Registration for the 2026 state tournament will open January 1, 2026!<br/><a href="/2026/">Click here for information.</a><br/>'
+  # registration button: <a href="/register/">Registration and Information</a>
   #imageUrl: /images/2022TeamPhoto.jpg
 
 widget1:
-  title: "2021 Wisconsin State Golden Gloves"
-  url: '/2021/'
-  image: 2021StateTournamentPoster.jpg
-  text: 'The Wisconsin Golden Gloves tournament will be back in Madison this year after a great tournament in 2019, and a long and unexpected year off due to COVID-19 in 2020. Read more information here, or check out photos and videos from 2019 in the links above'
+  title: "WI Golden Gloves Facebook Page"
+  url: 'https://www.facebook.com/WIGoldenGloves'
+  image: FacebookPagePic.png
+  text: 'Visit and like the Wisconsin Golden Gloves Facebook page to stay up to date with the latest news and information'
 widget2:
-  title: "National Golden Gloves Tournament"
-  url: '/national'
-  image: briNationalChamp.jpg
-  text: 'Our first National Golden Gloves team and trip were by all accounts a huge success. We had 3 in the semi finals, and Briana winning in the finals to bring home a Championship belt! Way to go represent Bri!! The new Wisconsin Golden Gloves is on the map and getting recognized.'
+  title: "WI Golden Gloves Instagram Page"
+  url: 'https://www.instagram.com/wigoldengloves?igsh=dmFvcmllOG9ydGcy'
+  image: knowledgeWin.jpg
+  text: 'See recent photos and videos from current and past Wisconsin champions, fights, and tournaments on our Instagram channel. Keep in touch and we will do the same!'
 widget3:
   title: "Bob Lynch Boxing Foundation"
   url: 'http://boblynchboxingfoundation.org'

@@ -21,19 +21,15 @@ permalink: "/donate/"
 <div style="margin-bottom:20px;">
 
 <h4><a href="http://www.bkfnd.com/">Bradshaw Knight Foundation</a></h4>
-<h4><a href="https://www.ho-chunkgaming.com/madison/">Ho Chunk Gaming Madison</a></h4><br/>
-<a href="http://tristatebasementrepair.com/">Tri-State Basement Repair</a><br/>
-Advanced Fastening Supply, Inc.<br/>
 <a href="https://www.hdofmadison.com/">Harley Davidson of Madison</a><br/>
 <a href="http://badgerstateproductions.com/">Badger State Productions</a><br/>
+Montauk Equities<br/>
+Level Up Boxing<br/>
+<a href="https://www.gibs.bar/">Gib's Bar</a><br/>
 <a href="http://www.gothambagels.com/">Gotham Bagels</a><br/>
 <a href="https://goodmansjewelers.com/">Goodman's Jewelers</a><br/>
-<a href="https://www.herbalaspect.com/">Herbal Aspect</a><br/>
-<a href="https://www.eti-motors.com/">Electro Tech, Inc.</a><br/>
 <a href="http://screendoorprinting.com/">ScreenDoor Printing</a><br/>
-<a href="http://wisconsingranite.com/">Wisconsin Granite</a><br/>
 <a href="https://madison365.com/">Madison365</a><br/>
-<a href="https://sites.google.com/view/badappletattoos/home?authuser=1">Bad Apple Tattoo</a><br/>
 <a href="https://redmousebar.com/">The Red Mouse</a><br/>
 <a href="https://logoproswi.com/">Logo Promotions</a><br/>
 <br/>
@@ -43,21 +39,18 @@ Advanced Fastening Supply, Inc.<br/>
 <a href="https://www.teamusa.org/USA-Boxing">USA Boxing</a><br/>
 <!-- <img src="/images/harmony-logo.jpg" style="width:100px;margin-right:30px;"/> -->
 <!-- <img src="https://dreamkeep.amfam.com/wp-content/themes/horizon-loyalty-child_amfam/images/logo.png" style="width:100px;"/> -->
-<a href="http://www.harmonybarandgrill.com/">Harmony Bar and Grill</a><br/>
-<a href="https://www.amfam.com/">American Family Insurance</a><br/>
-Aides Trophies<br/>
 <a href="https://fordsgym.com">Ford's Gym</a><br/>
 <a href="https://www.cornercam.net">CornerCam</a><br/>
-<a href="https://www.facebook.com/BoxingFiendApparel/">Boxing Fiend Apparel</a><br/>
+<a href="https://www.ronlutzii-photographer.com/">Ron Lutz II, Photographer</a><br/>
+<a href="http://www.matsrudels.com/">Mats Rudels, Videographer</a><br/>
 <a href="https://www.bluelakecg.com/">Blue Lake Consulting Group</a><br/>
+<a href="https://www.instagram.com/higherideal_/">Higher Ideal</a>
 
 <h4>Thank you to our ringside physicians, whose volunteer support keeps our athlete safe:</h4>
-Dr. Dave Bryce<br/>
-Dr. John Ernst<br/>
-Dr. Pat Sullivan<br/>
 Dr. Tim Roberts<br/>
+Dr. Dave Bryce<br/>
 
-<h4>Individual Supporters:</h4>
+<h4>Individual Supporters, past and present:</h4>
 McAloon Family & Friends<br/>
 Kenrick Family<br/>
 Tiffany Buchholtz<br/>
@@ -87,13 +80,21 @@ Glass Nickel Pizza<br/>
 Nessalla Kombucha<br/>
 Burch Concrete Construction<br/>
 TriState<br/>
-HoChunk<br/>
+Ho Chunk Gaming Madison<br/>
 Wisconsin Granite<br/>
 Madison 365<br/>
-American Family<br/>
 The QTI Group<br/>
 Husch Blackwell<br/>
 Twisted Fitness<br/>
+Tri-State Basement Repair<br/>
+Advanced Fastening Supply, Inc.<br/>
+Herbal Aspect<br/>
+Electro Tech, Inc.<br/>
+Bad Apple Tattoo<br/>
+Harmony Bar and Grill<br/>
+American Family Insurance<br/>
+Aides Trophies<br/>
+Boxing Fiend Apparel<br/>
 
 </div>
 <div style="margin-bottom:20px;">
