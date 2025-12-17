@@ -14,7 +14,7 @@ registration-form: true
 
 <div style="display:none;">
 
-<input id="invalid_form" value="false" type="hidden">
+<input id="invalid_form" value="true" type="hidden">
 
 <div class="row">
 <div class="col-xs-12">

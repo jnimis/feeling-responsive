@@ -14,7 +14,7 @@ registration-form: true
 
 <div style="display:none;">
 
-<input id="invalid_form" value="false" type="hidden">
+<input id="invalid_form" value="true" type="hidden">
 
 <strong>NOTE:</strong> Due to recent rule changes, qualified boxers with NON CITIZEN STATUS ARE NOW ELIGIBLE TO ADVANCE with the team to the National Golden Gloves tournament.
 

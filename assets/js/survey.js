@@ -209,6 +209,8 @@ $(document).ready(function() {
     // perform validations
     var errString = '';
     var errors = [];
+    if ($('#firstname').val() == undefined || $('#firstname').val() == '') { errors.push('first name'); }
+    if ($('#lastname').val() == undefined || $('#lastname').val() == '') { errors.push('last name'); }
     if (birthMonth == 'Month' || birthDay == 'Day' || birthYear == 'Year') {errors.push('birthdate'); }
     if (stateInfo == undefined || stateInfo == '') { errors.push('Wisconsin or out-of-state'); }
     if (gender == undefined || gender == '') { errors.push('gender'); }
@@ -264,7 +266,8 @@ $(document).ready(function() {
   });
 
   function addContactInfoFields(data) {
-    data['name'] = $('#name').val();
+    var name = $('#firstname').val() + " " + $('#lastname').val();
+    data['name'] = name;
     data['address'] = $('#address').val();
     data['cityzip'] = $('#cityzip').val();
     data['email'] = $('#email').val();

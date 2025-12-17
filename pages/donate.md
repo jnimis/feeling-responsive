@@ -27,6 +27,7 @@ Montauk Equities<br/>
 Level Up Boxing<br/>
 <a href="https://www.gibs.bar/">Gib's Bar</a><br/>
 <a href="http://www.gothambagels.com/">Gotham Bagels</a><br/>
+<a href="https://acesvetmed.com/">ACES</a><br/>
 <a href="https://goodmansjewelers.com/">Goodman's Jewelers</a><br/>
 <a href="http://screendoorprinting.com/">ScreenDoor Printing</a><br/>
 <a href="https://madison365.com/">Madison365</a><br/>

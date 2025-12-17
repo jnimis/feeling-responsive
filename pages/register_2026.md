@@ -16,8 +16,8 @@ registration-form: true
 
 <div class="row">
 <div class="col-xs-12">
-
-<label for="name">First and Last Name: </label><input type="text" id="name"/>
+<label for="firstname">First Name: </label><input type="text" id="firstname"/>
+<label for="lastname">Last Name: </label><input type="text" id="lastname"/>
 <label for="address">Street Address: </label><input type="text" id="address"/>
 <label for="cityzip">City, State, Zip: </label><input type="text" id="cityzip"/>
 <label for="email">Email: </label><input type="text" id="email" style="max-width:300px;"/>
@@ -103,24 +103,28 @@ registration-form: true
   <div class="btn-group boxer-experience">
   Amateur experience:<br/>
   Number of bouts? <input type="number" id="numbouts" style="width:80px;display:inline-block;"/><br/>
-  note: a boxer with 8+ bouts may choose to register as "OPEN" with approval and discretion of their coach and GG officials
+  <p>NOTE: a boxer with 8+ bouts may choose to register as "OPEN" with approval and discretion of their coach and GG officials</p>
     <button id="novice-button" class="blbf-btn btn-default single-select-button">True Novice (0-3 bouts)</button>
     <button id="super-novice-button" class="blbf-btn btn-default single-select-button">Novice (4-9 bouts)</button>
     <button id="open-button" class="blbf-btn btn-default single-select-button">Open (10 + bouts)</button>
+  <p>Boxers competing to advance to Nationals must wear USA Boxing-approved open-faced headgear (no cheek guards)</p>
   </div>
   <br/>
 
     Age as of April 3, 2026? <input type="number" id="age" style="width:60px;display:inline-block;"/><hr/>
 
 
-    <!-- Do you plan to attend Wisconsin Golden Gloves in Madison in April 2025?
+    <!-- Do you plan to attend Wisconsin Golden Gloves in Madison in April 2026?
     <div class="btn-group boxer-attend">
       <button id="boxer-attend-definitely" class="blbf-btn btn-default single-select-button">Definitely</button>
       <button id="boxer-attend-maybe" class="blbf-btn btn-default single-select-button">Maybe</button>
   <button id="boxer-attend-defnot" class="blbf-btn btn-default single-select-button">No</button>
     </div> -->
 
-    How likely are you to stay at the host hotel?
+    How likely are you to stay at the host hotel?<br/>
+    <b>Hotel reservation deadline: March 31</b><br/>
+    <a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1746467085100&key=GRP&app=resvlink" target="_blank">(Reserve here)</a>
+
     <div class="btn-group boxer-host-hotel">
       <button id="boxer-host-hotel-definitely" class="blbf-btn btn-default single-select-button">Definitely</button>
       <button id="boxer-host-hotel-maybe" class="blbf-btn btn-default single-select-button">Maybe</button>
