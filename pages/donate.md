@@ -25,6 +25,7 @@ permalink: "/donate/"
 <a href="http://badgerstateproductions.com/">Badger State Productions</a><br/>
 Montauk Equities<br/>
 Level Up Boxing<br/>
+<a href="http://www.vortexoptics.com/">Vortex Optics</a><br/>
 <a href="https://www.gibs.bar/">Gib's Bar</a><br/>
 <a href="http://www.gothambagels.com/">Gotham Bagels</a><br/>
 <a href="https://acesvetmed.com/">ACES</a><br/>
