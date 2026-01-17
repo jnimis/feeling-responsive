@@ -13,9 +13,9 @@ callforaction:
 #  style: alert
 
 specialannouncement:
-  text: 'Registration for the 2026 state tournament will open January 1, 2026!<br/><a href="/2026/">Click here for information.</a><br/>'
-  # registration button: <a href="/register/">Registration and Information</a>
-  #imageUrl: /images/2022TeamPhoto.jpg
+  text: 'Registration for the 2026 state tournament is now open!<br/><a class="button large radius 20" href="/2026/">Register Now</a><br/>'
+  # registration button: <a href="/2026/">Registration and Information</a>
+  imageUrl: /images/WIGG_2026_Banner.jpg
 
 widget1:
   title: "WI Golden Gloves Facebook Page"
