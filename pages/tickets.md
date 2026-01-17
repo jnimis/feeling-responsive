@@ -4,13 +4,13 @@ title: "Tickets"
 permalink: "/tickets/"
 ---
 
-Tickets will be available for purchase soon on this page.
+<!-- Tickets will be available for purchase soon on this page. -->
 
-<div style="display:none;">
+<!-- <div style="display:none;"> -->
 
-You can purchase tickets below on this page, or at EventBrite: [Friday tickets](https://www.eventbrite.com/e/2025-wisconsin-golden-gloves-friday-4182025-eliminations-tickets-1203979718749) and [Saturday tickets](https://www.eventbrite.com/e/2025-wisconsin-golden-gloves-saturday-4192025-semi-finals-finals-tickets-1204005194949) are sold separately.
+You can purchase tickets below on this page, or at EventBrite: [Friday tickets](https://www.eventbrite.com/e/2026-wisconsin-golden-gloves-friday-432026-eliminations-tickets-1979882679391) and [Saturday tickets](https://www.eventbrite.com/e/2026-wisconsin-golden-gloves-saturday-442026-semi-finals-finals-tickets-1979882850904) are sold separately.
 
-<div id="eventbrite-widget-container-1203979718749"></div>
+<div id="eventbrite-widget-container-1979882679391"></div>
 
 <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
 
@@ -22,8 +22,8 @@ You can purchase tickets below on this page, or at EventBrite: [Friday tickets](
     window.EBWidgets.createWidget({
         // Required
         widgetType: 'checkout',
-        eventId: '1203979718749',
-        iframeContainerId: 'eventbrite-widget-container-1203979718749',
+        eventId: '1979882679391',
+        iframeContainerId: 'eventbrite-widget-container-1979882679391',
 
         // Optional
         iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
@@ -33,7 +33,7 @@ You can purchase tickets below on this page, or at EventBrite: [Friday tickets](
 
 
 
-<div id="eventbrite-widget-container-1204005194949"></div>
+<div id="eventbrite-widget-container-1979882850904"></div>
 
 <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
 
@@ -45,8 +45,8 @@ You can purchase tickets below on this page, or at EventBrite: [Friday tickets](
     window.EBWidgets.createWidget({
         // Required
         widgetType: 'checkout',
-        eventId: '1204005194949',
-        iframeContainerId: 'eventbrite-widget-container-1204005194949',
+        eventId: '1979882850904',
+        iframeContainerId: 'eventbrite-widget-container-1979882850904',
 
         // Optional
         iframeContainerHeight: 1100,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
@@ -54,4 +54,4 @@ You can purchase tickets below on this page, or at EventBrite: [Friday tickets](
     });
 </script>
 
-</div>
+<!-- </div> -->
