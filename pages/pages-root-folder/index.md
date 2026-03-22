@@ -13,7 +13,7 @@ callforaction:
 #  style: alert
 
 specialannouncement:
-  text: 'Registration for the 2026 state tournament is now open!<br/><a class="button large radius 20" href="/2026/">Register Now</a><br/>'
+  text: 'Registration for the 2026 state tournament is now closed.<br/><a class="button large radius 20" href="/tickets/">Buy Tickets Here</a><br/>'
   # registration button: <a href="/2026/">Registration and Information</a>
   imageUrl: /images/WIGG_2026_Banner.jpg
 
