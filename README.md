@@ -14,6 +14,13 @@ To build, you must install `jekyll`, a ruby app (I have used MacOS) and run the 
 ### GETTING READY FOR A NEW TOURNAMENT YEAR:
 The first thing I do when getting ready for a new tournament year is `git commit` (and `git tag` if I remember) to save the state of the last year's tournament. Then I copy pages like `register.md` to a new file `register_{old_year}.md` and begin editing the original file. This way I have a good archive of past configurations to refer to in the future.
 
+### CLOSING DOWN REGISTRATION
+We close registration on the client side by: 
+- adjusting the registration page for the current year to make the registration survey hidden (enclose it in a div that has `style:display="none"`, I usually keep that div in the file but comment it out)
+- replacing it with a message that says registration is closed (again, I keep this in the registration file, but commented out)
+To close registration on the server side (in case there are stale client pages or someone finds a way around it):
+- set the Lambda concurrency on the `BLBFSurvey` lambda to `0` (in the AWS Console under `Lambda -> Configuration -> Concurrency and recursion detection`)
+
 ### BASIC UPDATES:
 Most pages are updated under "pages":
   - `donate.md` = "In our corner"
