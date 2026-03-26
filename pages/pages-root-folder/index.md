@@ -13,7 +13,7 @@ callforaction:
 #  style: alert
 
 specialannouncement:
-  text: 'Registration for the 2026 state tournament is now closed.<br/><a class="button large radius 20" href="/tickets/">Buy Tickets Here</a><br/>'
+  text: 'Registration for the 2026 state tournament is now closed.<br/><a class="button large radius 20" href="/tickets/">Buy Tickets Here</a><br/>Event Start Time UPDATE!<br/>Due to incredible turnout for this year’s registration, we’ll be splitting bouts into two sessions both days, 2pm (subject to change) and 6pm.<br/><br/>Youth/Junior and selected elite true-novice bouts: 2pm sessions both days<br/><br/>Random draw for team brackets will take place at mandatory boxer/coaches meeting, 11am. All boxers competing for team spots must attend.<br/><br/>Brackets and bout sheets will be posted here by noon, on our FB pages, and on the wall outside the venue.<br/><br/>Please feel free to contact with any questions'
   # registration button: <a href="/2026/">Registration and Information</a>
   imageUrl: /images/WIGG_2026_Banner.jpg
 
