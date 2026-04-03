@@ -6,13 +6,19 @@ permalink: "/livefeed/"
 
 Videos of past tournaments can be found on the YouTube channel for the <a href="https://www.youtube.com/@boblynchboxingfoundation755" target="_blank">Bob Lynch Boxing Foundation.</a>
 
-<h4>Saturday, April 19, 2025</h4>
+<!-- <h4>Saturday, April 19, 2025</h4>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zQHrEmJUD_A?si=lty3wm-UjufTiqmF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zQHrEmJUD_A?si=lty3wm-UjufTiqmF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
-<h4>Friday, April 18, 2025</h4>
+<h4>Friday, April 3, 2026</h4>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WW6ZYsSM-3o?si=vj3NyE1WSJrOrVRU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h3>Early Session (2pm)</h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZNpcy4OAU0?si=sEXWXJgqfO3QYdjX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<h3>Late Session (7pm)</h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WHNSjfzt9sQ?si=Jdczb2m6w5MDSyAv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p>
 <p>
