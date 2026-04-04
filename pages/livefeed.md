@@ -13,7 +13,7 @@ Videos of past tournaments can be found on the YouTube channel for the <a href="
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q8fVa8W8Q4c?si=a-X__rgw4-Fq415f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<h3>Late Session (7pm)</h3>
+<h3>Late Session (6pm)</h3>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/89DEPKdbxT0?si=Triw66XLO0S7cxMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -23,7 +23,7 @@ Videos of past tournaments can be found on the YouTube channel for the <a href="
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hZNpcy4OAU0?si=sEXWXJgqfO3QYdjX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<h3>Late Session (7pm)</h3>
+<h3>Late Session (6pm)</h3>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WHNSjfzt9sQ?si=Jdczb2m6w5MDSyAv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
