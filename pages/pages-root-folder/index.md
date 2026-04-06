@@ -13,9 +13,9 @@ callforaction:
 #  style: alert
 
 specialannouncement:
-  text: 'Registration for the 2026 state tournament is now closed.<br/><a class="button large radius 20" href="/tickets/">Buy Tickets Here</a><br/>Event Start Time UPDATE!<br/>Due to incredible turnout for this year’s registration, we’ll be splitting bouts into two sessions both days, 2pm (subject to change) and 6pm.<br/><br/>Youth/Junior and selected elite true-novice bouts: 2pm sessions both days<br/><br/>Random draw for team brackets will take place at mandatory boxer/coaches meeting, 11am. All boxers competing for team spots must attend.<br/><br/>Brackets and bout sheets will be posted here by noon, on our FB pages, and on the wall outside the venue.<br/><br/>Please feel free to contact with any questions'
+  text: 'Congratulations to the 2026 Wisconsin Golden Gloves National Team!<br/><br/>119 F: Laura Grulke-Reuter<br/>125 F: TBD<br/>132 F: Violet Lopez<br/>121 M: Sylas De Leon<br/>132 M: John Stenerson<br/>143 M: Cody Erke<br/>154 M: Shamari Knox<br/>165 M: Alex Brisk<br/>176 M: Roy Nelson<br/>187 M: Evan LaBarge<br/>198+ M: Deondre Isham'
   # registration button: <a href="/2026/">Registration and Information</a>
-  imageUrl: /images/WIGG_2026_Banner.jpg
+  imageUrl: /images/2026NationalsTeam.png
 
 widget1:
   title: "WI Golden Gloves Facebook Page"
